@@ -6,7 +6,7 @@
 -- 1. Market Penetration by Country and Plan Type
 -- Helps identify which subscription tiers are most popular in specific regions.
 SELECT country, plan_type, COUNT(customer_id) AS number_of_clients
-FROM ram_subscriptions
+FROM ram_subscribtions
 GROUP BY country, plan_type
 ORDER BY number_of_clients DESC;
 
@@ -14,7 +14,7 @@ ORDER BY number_of_clients DESC;
 -- Joins subscription revenue with marketing costs to evaluate the profitability of each region.
 -- Helps identify which markets provide the best return on ad spend (ROAS).
 SELECT s.country, SUM(s.monthly_revenue) AS total_revenue, m.total_ads_spend AS marketing_budget, ROUND(SUM(s.monthly_revenue) / NULLIF(m.total_ads_spend, 0), 2) AS roi_ratio
-FROM ram_subscriptions AS, ram_marketing_costs AS m 
+FROM ram_subscribtions AS, ram_marketing_costs AS m 
 WHERE s.country = m.country AND s.churned = false
 GROUP BY s.country, m.total_ads_spend
 ORDER BY roi_ratio DESC;
