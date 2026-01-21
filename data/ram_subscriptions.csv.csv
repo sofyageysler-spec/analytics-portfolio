@@ -1,0 +1,1001 @@
+customer_id,signup_date,plan_type,monthly_revenue,churned,churn_date,country
+1,11/16/2025,Pro,718.77,false,11/14/2025,Israel
+2,1/24/2024,Pro,668.3,false,,United States
+3,2/6/2024,Basic,1030.72,false,,Israel
+4,10/13/2024,Pro,1173.68,true,10/8/2025,Israel
+5,6/9/2025,Basic,1109.18,true,,United States
+6,9/19/2025,Basic,1812.68,true,,Israel
+7,4/4/2025,Enterprise,2324.18,alse,,Israel
+8,3/12/2025,Enterprise,768.92,alse,3/17/2025,Israel
+9,2/13/2025,Pro,1197.8,alse,,Israel
+10,3/16/2025,Pro,1940.37,false,8/17/2024,Israel
+11,1/1/2025,Enterprise,419.6,true,,United States
+12,9/7/2024,Pro,1886.6,false,,Israel
+13,10/14/2024,Basic,708.2,false,,United States
+14,2/25/2024,Basic,1471.67,true,,Israel
+15,6/8/2024,Pro,1761.65,false,11/15/2024,United States
+16,1/30/2024,Pro,982.54,true,,United States
+17,6/9/2024,Enterprise,1291.0,false,,Israel
+18,9/13/2024,Pro,1158.97,alse,,United States
+19,12/15/2025,Basic,661.47,false,,Israel
+20,5/1/2025,Basic,1431.71,true,,Israel
+21,7/16/2024,Enterprise,1878.0,false,,United States
+22,11/5/2024,Pro,2177.12,alse,,United States
+23,2/24/2024,Enterprise,2400.97,false,,United States
+24,3/5/2025,Enterprise,1445.75,alse,,Israel
+25,8/31/2025,Basic,145.94,false,,United States
+26,1/2/2025,Basic,1857.0,false,,Israel
+27,6/16/2025,Pro,1367.32,alse,,Israel
+28,1/30/2025,Basic,737.46,false,,Israel
+29,7/15/2025,Basic,668.63,alse,,Israel
+30,5/17/2024,Basic,1818.47,false,,Israel
+31,5/11/2024,Pro,1091.97,alse,,United States
+32,3/4/2025,Enterprise,293.59,false,,United States
+33,2/26/2025,Pro,2286.73,true,,Israel
+34,11/22/2024,Pro,2168.79,false,,United States
+35,2/8/2024,Basic,1866.36,false,,United States
+36,9/29/2024,Basic,2400.9,false,,United States
+37,10/27/2025,Basic,1562.47,alse,,Israel
+38,10/3/2024,Enterprise,1938.94,false,,Israel
+39,12/2/2025,Enterprise,1592.49,false,,United States
+40,11/20/2025,Enterprise,1935.87,false,,Israel
+41,5/26/2025,Enterprise,2347.85,false,,United States
+42,7/23/2024,Pro,1543.24,alse,,United States
+43,3/22/2024,Pro,180.73,false,4/7/2025,United States
+44,6/9/2024,Basic,1399.54,false,,Israel
+45,4/27/2024,Basic,2243.97,false,,United States
+46,2/20/2024,Pro,1798.89,false,,Israel
+47,2/20/2024,Basic,1739.57,false,10/24/2025,Israel
+48,9/8/2024,Pro,2384.04,true,,Israel
+49,1/31/2024,Basic,1608.26,false,,United States
+50,7/22/2024,Basic,2197.48,alse,,United States
+51,9/13/2024,Enterprise,2142.56,false,,United States
+52,12/28/2024,Enterprise,471.6,false,,United States
+53,5/17/2024,Basic,2094.66,true,,Israel
+54,10/28/2024,Enterprise,538.95,alse,,United States
+55,10/13/2024,Pro,1666.45,alse,,Israel
+56,9/12/2025,Pro,1052.58,alse,6/26/2025,United States
+57,11/4/2025,Enterprise,2360.67,false,,Israel
+58,8/11/2025,Basic,1313.87,false,,Israel
+59,3/31/2025,Basic,1260.91,false,1/27/2025,United States
+60,7/18/2025,Basic,1112.39,false,,Israel
+61,3/10/2024,Pro,901.64,alse,11/26/2025,Israel
+62,5/12/2024,Pro,702.97,false,9/1/2024,United States
+63,12/19/2024,Enterprise,2283.25,false,12/20/2025,United States
+64,11/30/2025,Basic,219.45,false,,Israel
+65,7/24/2025,Pro,1434.27,true,,United States
+66,7/5/2025,Basic,705.8,false,,Israel
+67,4/20/2024,Enterprise,1794.84,alse,,Israel
+68,3/18/2024,Enterprise,2264.36,false,,United States
+69,7/5/2024,Basic,1369.81,false,,United States
+70,9/14/2025,Basic,2490.48,alse,,Israel
+71,12/25/2025,Pro,2303.65,false,,Israel
+72,9/23/2024,Enterprise,880.75,false,,United States
+73,3/3/2024,Basic,1373.23,false,,Israel
+74,4/20/2024,Pro,1134.94,alse,,United States
+75,12/7/2024,Enterprise,789.39,alse,,United States
+76,2/28/2025,Pro,836.79,alse,,Israel
+77,1/24/2024,Basic,2312.87,alse,,United States
+78,8/13/2024,Basic,340.6,false,,Israel
+79,2/2/2025,Pro,497.9,false,,Israel
+80,12/15/2025,Basic,2021.74,false,,Israel
+81,6/25/2025,Basic,118.39,false,,Israel
+82,1/25/2025,Pro,1495.75,false,,Israel
+83,8/25/2024,Pro,1038.33,true,,Israel
+84,5/27/2024,Pro,1456.52,false,,Israel
+85,4/4/2025,Basic,2444.12,alse,6/12/2025,United States
+86,10/1/2025,Basic,1146.76,alse,,Israel
+87,6/18/2025,Enterprise,2201.47,true,6/26/2025,Israel
+88,5/23/2024,Enterprise,1221.69,false,,Israel
+89,8/26/2025,Pro,2326.11,false,12/23/2025,Israel
+90,3/9/2025,Enterprise,972.13,false,,United States
+91,8/19/2024,Pro,266.63,false,11/27/2024,Israel
+92,6/15/2024,Enterprise,2153.39,false,,Israel
+93,5/9/2025,Pro,1370.79,alse,,Israel
+94,2/5/2025,Basic,372.69,false,,United States
+95,6/22/2025,Basic,1247.96,false,,Israel
+96,6/10/2024,Pro,1838.72,true,1/9/2026,Israel
+97,1/8/2025,Pro,1895.69,false,,United States
+98,6/6/2025,Basic,1660.82,false,,United States
+99,10/17/2025,Pro,2499.73,false,,Israel
+100,8/24/2024,Pro,407.42,true,11/19/2024,Israel
+101,7/3/2025,Enterprise,377.98,alse,,United States
+102,6/23/2025,Basic,933.73,false,,United States
+103,9/15/2024,Pro,609.98,true,,Israel
+104,6/4/2024,Basic,1573.46,alse,,United States
+105,10/31/2025,Pro,112.34,false,,Israel
+106,7/27/2024,Pro,120.84,true,,United States
+107,1/18/2026,Pro,2296.61,false,,Israel
+108,10/14/2025,Pro,1745.2,false,,Israel
+109,3/31/2024,Pro,2093.37,true,8/21/2024,Israel
+110,4/28/2024,Enterprise,308.03,false,,Israel
+111,12/28/2024,Pro,1546.93,false,,United States
+112,7/22/2024,Pro,157.03,false,,Israel
+113,4/16/2025,Pro,1187.92,false,,United States
+114,7/31/2024,Basic,716.9,true,,Israel
+115,9/4/2024,Pro,1412.53,false,,United States
+116,11/30/2025,Pro,2375.09,false,,United States
+117,7/8/2025,Basic,1862.9,false,12/14/2024,Israel
+118,9/12/2025,Basic,1582.54,true,,United States
+119,10/18/2024,Enterprise,1278.8,true,,Israel
+120,6/24/2024,Pro,657.77,false,,United States
+121,11/10/2025,Basic,934.23,alse,12/27/2025,Israel
+122,1/4/2026,Enterprise,2259.37,false,9/2/2025,Israel
+123,1/2/2025,Basic,315.51,alse,,Israel
+124,9/8/2024,Basic,1972.73,true,,Israel
+125,4/8/2025,Enterprise,1521.29,true,12/12/2024,Israel
+126,11/29/2025,Pro,2026.01,true,,United States
+127,3/16/2025,Basic,1620.45,false,3/29/2025,Israel
+128,9/19/2025,Enterprise,680.52,false,,United States
+129,6/17/2024,Pro,2317.58,false,,Israel
+130,9/5/2025,Basic,1958.35,false,7/18/2025,Israel
+131,5/8/2024,Pro,1293.43,false,,Israel
+132,2/15/2024,Pro,314.92,true,,Israel
+133,8/19/2025,Pro,400.28,false,7/20/2024,United States
+134,7/3/2024,Enterprise,1768.64,false,11/26/2025,United States
+135,10/18/2025,Basic,1248.02,true,,United States
+136,4/9/2025,Pro,1901.97,true,12/12/2024,United States
+137,8/9/2025,Basic,2199.39,false,,Israel
+138,6/7/2025,Basic,1787.99,false,,Israel
+139,8/12/2024,Basic,2269.32,true,,United States
+140,12/7/2025,Pro,1090.85,true,,Israel
+141,12/23/2024,Pro,1642.57,true,,United States
+142,6/23/2025,Enterprise,443.26,true,,Israel
+143,4/7/2024,Enterprise,303.07,true,,Israel
+144,10/29/2024,Pro,991.47,false,,Israel
+145,6/18/2024,Pro,1205.69,false,,Israel
+146,7/5/2024,Enterprise,1677.61,alse,,Israel
+147,10/22/2024,Basic,1304.14,false,,United States
+148,7/18/2024,Pro,568.18,false,,United States
+149,11/21/2024,Pro,848.83,alse,,Israel
+150,3/17/2025,Pro,1979.05,alse,10/8/2024,United States
+151,1/1/2025,Enterprise,1238.94,false,,Israel
+152,1/1/2025,Basic,429.71,true,5/20/2025,United States
+153,9/19/2025,Pro,1304.49,false,,Israel
+154,11/8/2024,Enterprise,1111.39,true,,Israel
+155,9/13/2025,Basic,2338.26,alse,12/16/2024,Israel
+156,8/30/2025,Pro,1438.69,true,,Israel
+157,11/26/2025,Basic,488.14,false,,United States
+158,1/29/2025,Pro,701.28,false,,United States
+159,2/28/2024,Basic,1912.67,false,,United States
+160,1/21/2025,Basic,1675.05,false,,United States
+161,4/27/2024,Pro,934.18,true,,United States
+162,4/19/2025,Enterprise,395.7,false,,United States
+163,11/19/2025,Pro,1581.19,alse,,Israel
+164,1/19/2026,Pro,1670.36,false,,Israel
+165,6/18/2025,Basic,773.35,false,,United States
+166,4/10/2025,Pro,637.06,alse,,United States
+167,12/17/2025,Basic,2130.43,false,,Israel
+168,7/15/2025,Pro,488.71,false,,United States
+169,6/29/2024,Basic,463.54,false,10/22/2025,Israel
+170,8/5/2024,Basic,645.53,false,10/16/2025,United States
+171,2/26/2024,Basic,2233.45,false,,United States
+172,9/17/2024,Enterprise,329.92,false,,United States
+173,4/24/2024,Enterprise,1020.83,true,,Israel
+174,2/15/2024,Enterprise,348.69,false,,United States
+175,3/30/2024,Basic,1877.14,false,,Israel
+176,5/10/2024,Basic,1574.06,false,,Israel
+177,8/18/2024,Pro,1113.37,alse,,United States
+178,3/10/2025,Pro,497.78,false,,United States
+179,7/4/2025,Enterprise,1453.68,false,,United States
+180,5/25/2025,Pro,2093.25,false,,Israel
+181,6/7/2025,Basic,1609.35,false,,United States
+182,3/27/2025,Pro,823.5,false,,United States
+183,10/24/2024,Pro,1748.26,true,,United States
+184,1/22/2025,Pro,1142.28,false,,United States
+185,11/4/2024,Basic,447.08,true,,Israel
+186,10/18/2024,Basic,952.23,true,,Israel
+187,6/28/2025,Pro,1818.28,false,8/29/2024,United States
+188,6/2/2024,Pro,969.54,alse,6/11/2025,Israel
+189,12/22/2025,Basic,390.54,false,8/23/2025,United States
+190,4/18/2025,Pro,1636.32,alse,,Israel
+191,8/20/2025,Pro,1786.93,false,,Israel
+192,1/26/2025,Basic,1896.17,false,,United States
+193,1/9/2026,Basic,289.56,false,12/9/2025,Israel
+194,12/26/2025,Basic,728.05,alse,,United States
+195,1/2/2026,Enterprise,2113.25,false,,Israel
+196,7/9/2024,Pro,1988.34,false,,United States
+197,1/9/2026,Basic,431.09,false,,United States
+198,1/3/2026,Basic,587.7,false,12/12/2025,United States
+199,2/8/2025,Basic,361.46,false,3/9/2025,United States
+200,10/24/2025,Basic,1893.89,false,,Israel
+201,7/9/2024,Basic,452.51,false,,Israel
+202,9/26/2024,Enterprise,645.72,false,,Israel
+203,8/17/2024,Basic,925.26,false,,United States
+204,5/5/2024,Pro,2328.19,alse,,Israel
+205,5/13/2024,Enterprise,2444.39,false,,United States
+206,12/29/2025,Basic,1377.11,false,,United States
+207,9/11/2024,Enterprise,672.0,false,3/15/2025,Israel
+208,6/6/2024,Pro,655.36,false,,United States
+209,3/21/2025,Enterprise,2189.02,alse,,Israel
+210,6/1/2025,Pro,1539.93,false,,Israel
+211,1/8/2026,Basic,2384.28,false,,United States
+212,4/23/2024,Basic,1977.34,true,,Israel
+213,2/29/2024,Pro,851.54,false,,United States
+214,11/29/2025,Basic,422.05,false,,United States
+215,9/15/2024,Pro,332.29,false,4/3/2025,Israel
+216,3/1/2024,Basic,1408.08,alse,,Israel
+217,1/9/2026,Pro,1763.52,false,,United States
+218,10/23/2024,Enterprise,2265.13,false,,United States
+219,1/1/2025,Pro,1892.22,false,,United States
+220,7/27/2024,Basic,999.97,alse,5/7/2025,United States
+221,6/20/2024,Pro,180.85,false,,Israel
+222,3/1/2025,Pro,670.36,true,,United States
+223,10/16/2025,Enterprise,1727.3,false,,United States
+224,7/8/2024,Enterprise,1683.17,false,,Israel
+225,7/29/2024,Enterprise,1105.09,true,,United States
+226,9/7/2025,Basic,1991.13,false,,United States
+227,11/16/2025,Basic,972.0,true,,Israel
+228,1/18/2026,Pro,1347.14,false,,Israel
+229,6/4/2024,Enterprise,360.38,alse,,United States
+230,6/29/2025,Basic,834.37,false,,United States
+231,10/30/2025,Pro,1861.26,false,,Israel
+232,2/17/2025,Basic,831.1,true,10/6/2024,United States
+233,1/11/2026,Pro,537.93,false,,Israel
+234,3/8/2025,Pro,1016.64,alse,,Israel
+235,6/23/2025,Basic,1815.97,alse,,United States
+236,5/24/2025,Pro,538.25,alse,,United States
+237,8/4/2024,Pro,713.06,true,,United States
+238,9/13/2025,Basic,1063.09,true,11/1/2025,United States
+239,6/27/2024,Basic,1669.75,alse,,Israel
+240,7/20/2024,Pro,1975.45,true,,United States
+241,11/7/2025,Pro,2434.18,false,,Israel
+242,5/30/2024,Basic,2485.0,false,,United States
+243,2/26/2024,Basic,496.01,false,,United States
+244,5/27/2025,Basic,511.66,alse,9/3/2025,Israel
+245,8/12/2025,Pro,2069.29,false,,United States
+246,8/16/2025,Basic,976.47,true,,Israel
+247,12/26/2024,Pro,1139.32,true,8/16/2024,Israel
+248,6/7/2024,Enterprise,1894.73,false,,United States
+249,11/28/2024,Basic,1963.81,true,6/8/2025,Israel
+250,10/11/2025,Pro,1653.47,alse,,United States
+251,3/26/2025,Pro,130.87,false,7/18/2024,Israel
+252,12/20/2024,Basic,1456.04,false,,Israel
+253,2/25/2025,Pro,2328.86,false,6/6/2025,Israel
+254,3/24/2025,Basic,2281.63,false,8/22/2024,United States
+255,2/18/2025,Pro,933.23,false,,Israel
+256,5/21/2024,Pro,826.13,true,10/20/2024,Israel
+257,1/26/2024,Pro,1109.75,false,,Israel
+258,9/26/2025,Pro,2339.48,false,,United States
+259,8/2/2025,Basic,1208.39,false,,Israel
+260,12/8/2025,Basic,2494.29,true,,United States
+261,4/29/2024,Enterprise,2265.97,true,,United States
+262,3/7/2024,Basic,312.84,alse,,United States
+263,9/28/2024,Basic,2197.93,false,,Israel
+264,3/31/2025,Basic,2386.6,false,,United States
+265,4/16/2024,Basic,1472.81,false,5/19/2025,Israel
+266,9/24/2025,Basic,1575.76,alse,2/13/2025,United States
+267,5/17/2025,Enterprise,350.27,false,,Israel
+268,4/15/2024,Pro,2137.15,false,,Israel
+269,10/8/2025,Enterprise,1051.54,false,,United States
+270,10/30/2025,Pro,2356.72,true,,Israel
+271,1/5/2025,Pro,1980.91,alse,,Israel
+272,2/22/2025,Enterprise,1454.61,false,11/16/2024,Israel
+273,6/20/2025,Pro,812.99,false,,United States
+274,12/14/2024,Pro,536.8,false,,United States
+275,8/17/2025,Enterprise,175.26,false,,Israel
+276,10/14/2024,Enterprise,1911.91,false,2/17/2025,United States
+277,9/15/2024,Basic,730.12,false,7/8/2025,United States
+278,5/10/2025,Pro,1109.62,false,,United States
+279,5/30/2024,Pro,2181.23,false,,Israel
+280,10/2/2024,Basic,797.68,alse,,United States
+281,3/20/2024,Basic,1799.86,false,,United States
+282,8/26/2024,Pro,1520.44,true,,Israel
+283,12/11/2025,Pro,562.98,false,,Israel
+284,4/26/2024,Basic,1373.53,alse,,United States
+285,7/17/2025,Enterprise,590.2,false,,Israel
+286,6/20/2024,Basic,2010.44,false,,United States
+287,6/8/2024,Enterprise,335.2,false,9/20/2024,United States
+288,2/23/2024,Enterprise,1764.15,alse,,Israel
+289,3/7/2024,Basic,503.38,false,11/1/2025,Israel
+290,9/8/2024,Basic,2180.38,false,,Israel
+291,1/18/2026,Basic,963.44,false,3/20/2025,Israel
+292,11/22/2025,Enterprise,325.22,true,,Israel
+293,6/14/2024,Basic,1001.16,true,,Israel
+294,1/8/2025,Basic,1340.91,false,,Israel
+295,5/8/2025,Basic,1781.26,false,3/21/2025,United States
+296,3/3/2025,Basic,729.57,alse,,Israel
+297,12/23/2024,Pro,2386.0,false,,United States
+298,9/4/2025,Basic,785.73,false,,United States
+299,10/24/2025,Basic,1344.07,false,,United States
+300,4/18/2025,Pro,1259.94,true,,Israel
+301,9/1/2024,Basic,1638.27,false,,United States
+302,2/14/2025,Pro,1552.26,true,,Israel
+303,10/2/2025,Basic,1302.83,false,,Israel
+304,5/10/2024,Enterprise,2143.26,false,,Israel
+305,11/22/2024,Basic,227.38,true,,United States
+306,1/18/2025,Basic,485.65,true,,United States
+307,5/14/2025,Enterprise,368.07,true,,United States
+308,12/3/2024,Basic,246.08,false,,Israel
+309,8/29/2025,Enterprise,1111.38,true,,United States
+310,7/28/2024,Basic,1846.44,false,,United States
+311,5/10/2025,Enterprise,226.22,false,,Israel
+312,7/16/2025,Enterprise,2479.76,false,,Israel
+313,9/15/2025,Pro,1043.31,false,,United States
+314,2/4/2025,Enterprise,2351.14,alse,,Israel
+315,5/5/2025,Basic,2339.81,true,,Israel
+316,9/9/2025,Enterprise,1369.79,false,,United States
+317,8/2/2025,Pro,765.62,false,,Israel
+318,10/2/2024,Pro,2447.25,false,,United States
+319,2/22/2025,Basic,986.75,true,,Israel
+320,10/18/2025,Basic,549.22,alse,,United States
+321,2/3/2024,Basic,952.27,false,,United States
+322,9/30/2025,Basic,2298.83,true,,United States
+323,3/2/2024,Pro,458.43,alse,,Israel
+324,10/22/2025,Pro,2053.65,alse,,Israel
+325,3/6/2025,Basic,631.03,false,,United States
+326,4/24/2025,Basic,2490.24,false,,Israel
+327,2/15/2024,Pro,2356.61,false,,United States
+328,1/14/2026,Basic,1412.41,false,,United States
+329,8/7/2024,Pro,821.07,false,,United States
+330,1/20/2024,Pro,314.53,alse,11/5/2025,Israel
+331,8/18/2024,Basic,1174.08,false,,Israel
+332,5/12/2025,Enterprise,2277.2,false,,United States
+333,10/28/2024,Basic,1921.13,alse,,United States
+334,9/13/2024,Pro,1879.72,false,,Israel
+335,1/23/2025,Pro,1119.31,false,,Israel
+336,10/10/2024,Basic,897.7,alse,,Israel
+337,10/17/2025,Basic,1100.84,false,,Israel
+338,9/3/2025,Basic,1802.45,true,,United States
+339,7/24/2024,Basic,1901.48,false,,Israel
+340,3/7/2025,Pro,512.26,false,7/22/2025,Israel
+341,6/26/2025,Pro,1478.7,true,,Israel
+342,7/6/2024,Pro,2424.5,alse,,Israel
+343,9/25/2025,Enterprise,1499.34,true,,Israel
+344,5/14/2024,Pro,603.58,alse,,Israel
+345,12/9/2024,Basic,2187.38,alse,,Israel
+346,11/23/2025,Basic,270.98,alse,,Israel
+347,2/7/2025,Basic,1304.48,alse,,United States
+348,3/18/2024,Pro,1102.4,false,,Israel
+349,8/2/2025,Pro,1727.89,false,12/6/2025,Israel
+350,6/14/2025,Pro,861.55,false,,Israel
+351,8/3/2024,Pro,1079.3,alse,,United States
+352,4/23/2024,Enterprise,320.26,true,,Israel
+353,11/2/2025,Pro,2354.28,false,12/3/2025,United States
+354,2/21/2025,Basic,896.59,true,,Israel
+355,1/31/2024,Pro,944.32,alse,,Israel
+356,1/3/2025,Enterprise,1223.97,alse,,Israel
+357,9/17/2024,Enterprise,383.09,false,5/23/2025,Israel
+358,9/30/2025,Basic,1676.68,false,,Israel
+359,4/23/2025,Basic,1961.7,false,,Israel
+360,10/22/2024,Pro,1047.55,false,,Israel
+361,4/22/2025,Basic,1802.41,false,,United States
+362,1/10/2025,Enterprise,475.54,alse,,United States
+363,5/19/2024,Enterprise,1335.81,false,,United States
+364,11/27/2025,Basic,1525.26,false,11/17/2024,United States
+365,4/30/2024,Basic,1760.27,alse,4/12/2025,Israel
+366,4/4/2024,Basic,1724.55,false,,Israel
+367,10/1/2024,Pro,1683.22,false,,Israel
+368,10/13/2025,Enterprise,357.54,false,,Israel
+369,6/27/2024,Enterprise,2451.61,true,,Israel
+370,12/11/2025,Enterprise,894.89,false,8/25/2024,United States
+371,2/13/2025,Pro,1855.21,alse,,Israel
+372,7/23/2025,Basic,1651.94,false,,United States
+373,11/11/2025,Basic,2002.57,false,,United States
+374,1/11/2025,Pro,1047.45,alse,,Israel
+375,5/21/2025,Basic,888.54,false,,Israel
+376,6/4/2025,Basic,1937.08,false,4/1/2025,United States
+377,12/3/2024,Enterprise,1845.36,true,,Israel
+378,3/16/2024,Basic,1649.65,false,4/9/2025,United States
+379,11/3/2024,Enterprise,454.28,alse,,Israel
+380,6/23/2025,Enterprise,1599.07,false,,Israel
+381,7/27/2024,Basic,547.49,true,,Israel
+382,10/13/2024,Enterprise,1783.85,true,,Israel
+383,1/19/2025,Pro,2316.73,false,10/11/2025,United States
+384,10/5/2025,Enterprise,1299.57,true,,Israel
+385,11/5/2024,Basic,892.29,false,,United States
+386,9/23/2025,Basic,2126.23,false,,Israel
+387,1/15/2026,Basic,2168.03,false,,United States
+388,1/22/2024,Pro,453.04,alse,,Israel
+389,11/28/2024,Pro,2219.67,false,,United States
+390,9/16/2024,Pro,877.02,true,,Israel
+391,3/16/2024,Pro,1927.72,false,12/26/2024,United States
+392,5/11/2024,Pro,420.4,false,,Israel
+393,2/29/2024,Pro,1380.76,false,4/30/2025,Israel
+394,3/7/2024,Enterprise,2316.16,true,3/15/2025,United States
+395,12/10/2025,Basic,1065.19,false,,United States
+396,6/24/2025,Enterprise,907.44,true,,Israel
+397,8/7/2024,Basic,323.35,alse,8/20/2024,Israel
+398,12/1/2025,Pro,1210.35,alse,,United States
+399,3/24/2024,Basic,1650.18,false,,Israel
+400,9/24/2024,Basic,639.13,false,,United States
+401,8/9/2024,Enterprise,401.64,false,4/22/2025,United States
+402,5/21/2025,Basic,623.53,true,,Israel
+403,4/14/2025,Basic,223.4,true,,United States
+404,5/28/2024,Basic,1189.25,alse,,Israel
+405,9/28/2025,Pro,1892.62,alse,,Israel
+406,8/11/2024,Enterprise,808.08,alse,,Israel
+407,10/18/2024,Enterprise,852.76,false,,Israel
+408,12/30/2025,Pro,1550.69,false,,Israel
+409,8/14/2025,Enterprise,250.2,true,,United States
+410,3/10/2025,Pro,397.71,alse,,Israel
+411,5/26/2025,Pro,2264.9,false,12/27/2025,Israel
+412,8/11/2024,Basic,2066.41,false,7/30/2024,Israel
+413,5/27/2025,Basic,2158.74,false,,Israel
+414,11/4/2024,Enterprise,1668.59,false,1/2/2025,Israel
+415,8/29/2025,Basic,2297.48,true,,Israel
+416,3/26/2025,Pro,1439.53,true,,Israel
+417,7/13/2024,Enterprise,1697.14,false,,United States
+418,10/17/2025,Basic,1184.52,false,,United States
+419,4/27/2024,Enterprise,1645.49,false,10/13/2025,Israel
+420,12/13/2025,Basic,1900.56,true,10/16/2025,United States
+421,1/8/2025,Enterprise,1704.88,false,5/5/2025,Israel
+422,9/6/2024,Basic,2466.45,false,,Israel
+423,2/2/2024,Pro,1318.15,false,,United States
+424,4/18/2024,Enterprise,253.4,false,,United States
+425,5/8/2025,Pro,2226.76,false,,Israel
+426,1/17/2025,Basic,477.62,false,,Israel
+427,10/9/2025,Pro,262.87,alse,,United States
+428,9/30/2025,Enterprise,1924.15,alse,,Israel
+429,6/12/2024,Pro,1060.4,false,,United States
+430,12/5/2024,Pro,1986.99,alse,10/2/2024,Israel
+431,3/7/2025,Pro,2368.28,false,,Israel
+432,12/20/2024,Enterprise,265.32,alse,9/7/2024,United States
+433,9/5/2025,Pro,237.32,false,1/6/2026,United States
+434,10/11/2025,Pro,1407.67,alse,,Israel
+435,8/2/2025,Basic,478.85,true,,Israel
+436,2/3/2024,Pro,1778.99,true,,Israel
+437,11/18/2024,Basic,310.08,true,10/19/2024,Israel
+438,9/16/2025,Enterprise,276.66,true,7/20/2025,United States
+439,11/7/2024,Pro,2273.23,alse,,Israel
+440,4/26/2025,Basic,263.21,true,,United States
+441,3/20/2024,Pro,1528.17,true,,Israel
+442,9/27/2024,Basic,2474.94,false,,Israel
+443,12/10/2025,Basic,1826.89,false,,United States
+444,9/7/2024,Basic,1167.45,true,,Israel
+445,8/2/2024,Enterprise,2317.97,false,,United States
+446,5/27/2025,Pro,2031.93,true,,Israel
+447,3/19/2025,Basic,513.88,true,,Israel
+448,12/24/2024,Pro,1453.85,false,,United States
+449,1/30/2025,Basic,181.43,false,,United States
+450,9/30/2024,Pro,2081.86,false,,Israel
+451,6/2/2025,Basic,2098.5,false,,Israel
+452,2/12/2025,Pro,1511.61,false,,Israel
+453,5/28/2024,Basic,196.81,true,9/30/2024,Israel
+454,9/29/2025,Pro,1812.63,true,,Israel
+455,3/7/2024,Pro,1483.92,alse,,United States
+456,10/7/2024,Basic,120.63,false,10/15/2024,United States
+457,12/14/2025,Pro,2380.91,alse,1/4/2026,Israel
+458,9/28/2025,Pro,260.6,false,,United States
+459,9/1/2025,Pro,1108.36,false,,United States
+460,1/23/2024,Pro,2419.02,alse,,Israel
+461,7/3/2024,Basic,136.2,false,,United States
+462,7/17/2024,Enterprise,1283.02,false,,Israel
+463,12/27/2024,Basic,1593.72,false,,United States
+464,12/22/2024,Pro,1730.05,alse,,United States
+465,5/19/2024,Basic,792.54,false,,Israel
+466,10/11/2025,Pro,1526.54,false,,Israel
+467,11/8/2024,Basic,1915.63,false,,Israel
+468,1/7/2025,Pro,432.05,false,,Israel
+469,5/26/2024,Pro,1225.82,false,,United States
+470,5/29/2025,Basic,1182.71,false,,United States
+471,4/1/2025,Basic,1284.25,false,,Israel
+472,11/18/2024,Basic,493.5,false,,United States
+473,10/2/2025,Basic,1983.93,true,,Israel
+474,4/18/2024,Pro,1016.51,false,,Israel
+475,4/27/2024,Enterprise,252.68,false,,United States
+476,11/16/2024,Basic,2183.4,false,,United States
+477,6/20/2025,Pro,2426.76,true,,United States
+478,5/19/2025,Basic,963.46,false,,Israel
+479,7/8/2025,Basic,2436.74,false,,Israel
+480,4/1/2025,Pro,2415.38,alse,,United States
+481,8/29/2024,Pro,1090.79,true,,Israel
+482,2/27/2025,Basic,725.89,true,,United States
+483,4/3/2024,Pro,234.87,true,,United States
+484,5/28/2024,Enterprise,1888.55,false,,United States
+485,9/6/2025,Pro,556.86,true,,Israel
+486,8/25/2025,Basic,1313.42,false,,United States
+487,5/19/2024,Pro,565.16,false,,Israel
+488,3/13/2024,Basic,875.99,false,,United States
+489,4/26/2024,Pro,462.0,true,,Israel
+490,12/10/2024,Pro,1553.93,false,,Israel
+491,6/10/2024,Basic,2278.1,false,,United States
+492,4/6/2024,Basic,357.25,false,,United States
+493,6/23/2025,Enterprise,1470.42,false,,United States
+494,5/30/2024,Basic,660.47,false,,Israel
+495,9/1/2024,Pro,108.82,false,,United States
+496,10/27/2025,Enterprise,2112.06,false,,United States
+497,4/17/2025,Pro,1851.89,false,10/25/2025,United States
+498,10/3/2025,Basic,309.91,true,8/18/2025,Israel
+499,12/24/2025,Basic,2446.19,false,,Israel
+500,7/5/2025,Basic,2245.71,false,,Israel
+501,12/17/2025,Basic,946.7,alse,,United States
+502,5/4/2025,Basic,1715.38,true,,United States
+503,3/18/2025,Enterprise,1747.14,false,,Israel
+504,5/21/2024,Pro,1066.31,false,,Israel
+505,2/3/2024,Basic,999.02,false,,United States
+506,8/8/2024,Basic,1654.61,false,,United States
+507,6/26/2024,Pro,142.78,false,,United States
+508,11/19/2025,Enterprise,749.37,true,,Israel
+509,3/1/2024,Basic,116.06,false,,Israel
+510,9/12/2025,Pro,2341.02,true,,United States
+511,4/28/2025,Pro,989.68,alse,,United States
+512,6/8/2025,Basic,356.35,false,,United States
+513,9/26/2025,Basic,2186.63,false,,United States
+514,11/27/2024,Enterprise,2251.53,false,,United States
+515,2/23/2025,Pro,683.52,false,,Israel
+516,9/19/2025,Pro,973.6,alse,,United States
+517,11/23/2024,Enterprise,1707.54,false,,Israel
+518,1/13/2025,Enterprise,832.97,true,12/3/2024,United States
+519,12/28/2025,Basic,2314.6,false,,United States
+520,5/10/2024,Pro,1460.51,alse,,Israel
+521,7/16/2024,Enterprise,453.68,false,,Israel
+522,7/23/2024,Pro,1084.52,false,,Israel
+523,4/5/2024,Enterprise,548.78,false,2/17/2025,Israel
+524,7/2/2024,Basic,445.64,false,2/25/2025,United States
+525,4/5/2025,Pro,204.3,false,10/8/2024,United States
+526,12/5/2024,Pro,2466.91,false,,Israel
+527,4/18/2025,Pro,1206.4,false,,United States
+528,3/12/2024,Enterprise,2173.19,false,,United States
+529,5/30/2024,Pro,1678.39,false,,United States
+530,6/14/2025,Basic,858.94,false,1/9/2026,Israel
+531,5/13/2025,Pro,632.77,alse,,United States
+532,11/14/2024,Basic,282.24,alse,,Israel
+533,10/17/2025,Pro,2238.25,false,,Israel
+534,5/12/2024,Pro,378.93,true,,Israel
+535,3/16/2025,Basic,1488.87,false,,Israel
+536,7/3/2025,Basic,1055.38,false,6/18/2025,Israel
+537,6/13/2024,Basic,394.9,true,,United States
+538,10/8/2024,Pro,398.77,false,2/22/2025,United States
+539,8/29/2025,Enterprise,792.81,false,,United States
+540,10/17/2024,Basic,1935.84,false,,Israel
+541,1/14/2025,Pro,1388.43,false,,Israel
+542,10/3/2025,Pro,1512.72,false,,Israel
+543,10/15/2025,Basic,2114.66,false,,Israel
+544,5/20/2025,Enterprise,726.51,false,5/19/2025,Israel
+545,8/16/2024,Enterprise,666.66,false,7/20/2024,Israel
+546,6/25/2025,Basic,1635.54,false,5/12/2025,United States
+547,2/5/2024,Basic,2469.09,alse,,Israel
+548,6/26/2025,Basic,1819.21,false,8/18/2024,Israel
+549,8/4/2024,Basic,418.75,false,,Israel
+550,11/2/2024,Pro,1712.78,false,,Israel
+551,12/6/2024,Basic,1011.83,false,,Israel
+552,2/24/2025,Pro,225.35,false,,United States
+553,2/28/2024,Pro,1061.17,false,,Israel
+554,4/5/2025,Basic,938.45,true,,United States
+555,10/8/2025,Pro,2080.17,true,,Israel
+556,4/14/2025,Pro,2466.71,true,,United States
+557,12/11/2025,Pro,429.77,false,,United States
+558,1/8/2025,Pro,1868.83,false,,Israel
+559,8/18/2024,Basic,1154.96,false,8/7/2024,Israel
+560,6/11/2025,Basic,971.25,false,,Israel
+561,5/27/2024,Enterprise,1443.46,alse,,United States
+562,2/9/2024,Pro,2490.49,false,,Israel
+563,9/21/2024,Pro,2146.86,false,,United States
+564,4/19/2025,Basic,2251.95,false,,United States
+565,10/9/2024,Pro,2018.09,alse,,United States
+566,3/8/2025,Pro,1943.37,false,,United States
+567,4/25/2024,Pro,377.13,true,,Israel
+568,12/16/2025,Enterprise,826.83,alse,,United States
+569,6/25/2025,Enterprise,542.87,alse,,Israel
+570,6/10/2024,Pro,1059.24,false,,Israel
+571,11/29/2025,Pro,1360.41,false,2/8/2025,United States
+572,7/1/2025,Pro,1478.16,false,,United States
+573,10/14/2024,Pro,2006.09,false,,United States
+574,6/4/2024,Pro,1828.27,true,,Israel
+575,6/27/2024,Enterprise,300.94,false,,Israel
+576,2/25/2024,Enterprise,1997.16,alse,12/13/2025,United States
+577,7/8/2025,Enterprise,271.26,false,,United States
+578,10/31/2024,Pro,2054.03,true,8/22/2024,Israel
+579,12/17/2024,Enterprise,1465.91,alse,,Israel
+580,7/20/2024,Basic,1203.06,false,9/20/2025,Israel
+581,1/1/2025,Basic,994.64,true,,Israel
+582,10/28/2025,Basic,2339.42,alse,,United States
+583,5/25/2025,Enterprise,955.72,alse,,Israel
+584,3/8/2025,Pro,1249.05,false,,United States
+585,1/3/2025,Basic,116.41,true,8/1/2025,United States
+586,12/9/2025,Enterprise,1141.27,alse,,United States
+587,7/22/2024,Pro,1347.58,false,,United States
+588,3/7/2024,Basic,1930.12,alse,,United States
+589,2/17/2025,Enterprise,358.79,false,,United States
+590,6/24/2025,Pro,1193.64,alse,,Israel
+591,8/21/2024,Enterprise,1023.66,false,,United States
+592,8/16/2025,Enterprise,115.83,false,,Israel
+593,1/9/2026,Basic,1545.19,false,,Israel
+594,12/30/2024,Enterprise,1136.06,false,,Israel
+595,5/19/2024,Pro,1162.01,false,,Israel
+596,9/24/2024,Basic,1772.53,false,8/2/2025,Israel
+597,12/12/2025,Basic,1394.61,true,7/10/2024,Israel
+598,11/3/2024,Basic,2428.15,false,,Israel
+599,8/20/2024,Basic,1660.75,false,,Israel
+600,7/4/2024,Pro,809.18,true,,United States
+601,12/25/2025,Pro,1822.8,true,,Israel
+602,5/9/2024,Pro,489.92,false,1/17/2026,Israel
+603,7/12/2024,Pro,1498.43,true,,Israel
+604,8/21/2025,Pro,2048.41,false,1/8/2025,Israel
+605,10/5/2024,Basic,155.63,true,7/7/2025,Israel
+606,8/8/2024,Basic,421.17,false,,United States
+607,1/21/2024,Pro,2073.38,false,,Israel
+608,9/21/2025,Pro,271.26,alse,,United States
+609,8/30/2024,Basic,150.81,alse,,United States
+610,12/26/2024,Pro,2319.38,false,,United States
+611,1/29/2024,Basic,1016.21,false,,United States
+612,6/17/2024,Pro,189.69,true,,Israel
+613,12/15/2024,Pro,450.33,false,,Israel
+614,6/28/2025,Enterprise,1009.12,false,,United States
+615,3/18/2025,Basic,1121.18,alse,,United States
+616,2/15/2025,Enterprise,1475.39,false,7/16/2024,United States
+617,3/4/2024,Basic,1299.6,false,,United States
+618,3/2/2025,Pro,1376.49,false,,United States
+619,10/3/2024,Pro,583.92,false,,Israel
+620,10/7/2025,Pro,2457.58,false,,Israel
+621,9/15/2025,Basic,1874.39,alse,,Israel
+622,10/9/2025,Pro,775.81,false,,United States
+623,5/30/2024,Basic,329.74,false,7/23/2024,United States
+624,10/12/2025,Pro,2177.26,false,,United States
+625,1/28/2024,Pro,249.81,false,,Israel
+626,9/7/2024,Enterprise,282.24,false,,Israel
+627,1/30/2024,Basic,921.96,alse,11/19/2025,Israel
+628,5/20/2025,Pro,1588.85,false,,United States
+629,7/10/2025,Basic,2185.85,false,9/21/2024,United States
+630,2/28/2024,Basic,1508.8,false,11/23/2025,Israel
+631,4/15/2024,Enterprise,1865.62,false,,Israel
+632,3/11/2024,Basic,2473.01,alse,,United States
+633,10/5/2024,Pro,921.56,false,,United States
+634,3/4/2025,Basic,571.02,false,,Israel
+635,7/8/2024,Pro,1417.5,false,12/22/2025,United States
+636,11/21/2025,Enterprise,1582.49,false,,Israel
+637,5/8/2025,Enterprise,1550.31,false,,United States
+638,2/4/2025,Enterprise,1570.41,true,,United States
+639,9/28/2024,Enterprise,2392.03,true,,Israel
+640,8/28/2024,Enterprise,1270.12,false,,Israel
+641,9/6/2024,Basic,1369.25,false,,United States
+642,9/20/2025,Basic,711.03,false,6/14/2025,United States
+643,7/2/2024,Basic,222.88,false,,United States
+644,5/8/2025,Pro,1461.6,false,,Israel
+645,1/12/2026,Pro,476.39,false,,United States
+646,4/16/2025,Pro,417.0,true,,Israel
+647,10/2/2025,Basic,1452.79,false,,United States
+648,10/22/2024,Pro,1823.58,true,,United States
+649,5/24/2024,Basic,766.17,alse,10/3/2024,Israel
+650,12/25/2025,Basic,2372.43,false,,Israel
+651,6/12/2025,Pro,2341.78,true,,United States
+652,1/7/2026,Basic,571.06,false,8/18/2025,United States
+653,6/9/2024,Pro,1982.82,false,,Israel
+654,3/10/2024,Basic,113.74,true,,Israel
+655,2/7/2025,Enterprise,1924.16,false,,Israel
+656,1/29/2024,Basic,1612.34,false,,United States
+657,7/24/2025,Basic,2170.23,false,,United States
+658,10/14/2024,Basic,2167.66,false,,United States
+659,6/8/2025,Pro,1840.35,false,,United States
+660,6/29/2025,Enterprise,857.27,false,,Israel
+661,10/21/2025,Enterprise,2300.84,false,,United States
+662,2/25/2025,Basic,1947.15,false,,Israel
+663,11/26/2024,Pro,931.62,false,,Israel
+664,9/17/2025,Basic,2072.13,true,11/28/2025,United States
+665,12/10/2024,Pro,1914.84,false,,United States
+666,3/4/2024,Pro,624.47,false,,Israel
+667,8/19/2025,Pro,970.54,true,,Israel
+668,1/12/2026,Basic,570.3,alse,,Israel
+669,6/8/2025,Basic,988.77,false,,United States
+670,5/23/2024,Basic,1407.73,false,,United States
+671,10/9/2024,Basic,2110.03,false,,Israel
+672,10/24/2024,Pro,2264.99,false,,United States
+673,1/11/2026,Enterprise,1208.62,alse,,Israel
+674,3/30/2024,Pro,2119.23,false,1/3/2025,United States
+675,11/3/2025,Pro,189.47,false,,United States
+676,4/25/2025,Pro,2065.59,alse,,United States
+677,4/3/2025,Basic,1989.7,alse,11/2/2024,Israel
+678,3/31/2025,Basic,887.23,true,,United States
+679,7/13/2024,Pro,338.29,alse,,United States
+680,1/25/2024,Basic,1727.63,alse,10/13/2024,Israel
+681,4/5/2024,Pro,1222.4,false,9/15/2025,Israel
+682,9/15/2025,Basic,1248.18,false,,Israel
+683,9/10/2024,Enterprise,1211.06,alse,,Israel
+684,7/3/2025,Pro,1944.49,true,,United States
+685,6/14/2025,Pro,1440.12,alse,11/1/2024,Israel
+686,4/5/2024,Basic,1221.49,false,,Israel
+687,12/9/2024,Basic,1456.63,false,,Israel
+688,12/5/2025,Basic,1878.8,false,,Israel
+689,7/13/2024,Basic,663.3,alse,,United States
+690,10/28/2024,Enterprise,192.73,true,,United States
+691,2/21/2025,Basic,1091.3,false,,Israel
+692,3/21/2024,Basic,2457.96,false,,Israel
+693,4/11/2024,Basic,2204.94,true,,Israel
+694,7/26/2024,Pro,700.07,false,4/12/2025,Israel
+695,4/24/2025,Pro,599.33,false,,Israel
+696,8/24/2024,Basic,415.81,true,,Israel
+697,9/3/2024,Basic,367.46,alse,,United States
+698,8/27/2025,Basic,1078.44,false,,United States
+699,5/8/2025,Basic,1582.76,alse,9/29/2024,Israel
+700,12/30/2025,Basic,1481.29,alse,,Israel
+701,10/24/2024,Basic,1707.54,false,,Israel
+702,1/27/2024,Basic,1036.2,false,,United States
+703,12/15/2024,Enterprise,1380.94,false,,Israel
+704,8/12/2025,Pro,2172.74,alse,,United States
+705,8/13/2025,Pro,814.89,alse,,United States
+706,11/30/2024,Basic,1934.45,true,7/9/2024,United States
+707,5/16/2025,Enterprise,1715.86,true,6/20/2025,United States
+708,3/3/2024,Basic,367.31,false,,United States
+709,1/30/2024,Pro,1211.94,alse,11/11/2024,Israel
+710,2/27/2025,Basic,974.49,false,10/13/2025,United States
+711,6/19/2025,Pro,1876.84,alse,7/16/2025,Israel
+712,4/17/2025,Basic,1552.5,alse,,United States
+713,2/22/2025,Pro,2218.89,false,,Israel
+714,9/7/2024,Basic,106.03,false,,United States
+715,9/7/2025,Enterprise,233.07,false,,Israel
+716,2/24/2024,Pro,2138.23,false,5/12/2025,United States
+717,3/24/2025,Enterprise,2481.46,false,9/20/2025,Israel
+718,6/30/2025,Enterprise,1589.07,false,1/17/2026,United States
+719,10/26/2025,Basic,812.96,true,12/5/2024,United States
+720,7/18/2025,Basic,707.14,alse,,United States
+721,2/26/2024,Pro,745.91,alse,,United States
+722,11/9/2025,Pro,1350.52,false,,United States
+723,7/2/2025,Pro,1703.04,false,,United States
+724,12/7/2024,Basic,1895.97,false,12/17/2024,United States
+725,2/9/2024,Enterprise,866.28,true,,United States
+726,8/1/2024,Enterprise,521.73,alse,,United States
+727,7/4/2025,Basic,1709.78,false,,United States
+728,11/17/2024,Basic,926.93,true,,United States
+729,6/8/2025,Pro,2349.28,false,,United States
+730,5/10/2024,Pro,296.47,false,,Israel
+731,9/16/2025,Enterprise,1378.81,true,,Israel
+732,11/8/2024,Pro,1149.38,false,,United States
+733,7/15/2024,Enterprise,1427.15,true,,Israel
+734,12/20/2024,Enterprise,2497.13,false,,Israel
+735,6/12/2024,Basic,2171.16,false,8/18/2025,Israel
+736,7/10/2024,Basic,536.16,false,8/17/2025,Israel
+737,3/4/2024,Pro,1046.98,false,7/1/2025,United States
+738,8/28/2024,Pro,1302.4,false,,United States
+739,7/6/2024,Basic,2328.36,alse,,Israel
+740,1/8/2025,Enterprise,645.38,true,,United States
+741,11/12/2025,Enterprise,389.94,true,,United States
+742,6/6/2024,Basic,554.79,true,,Israel
+743,3/22/2025,Basic,1381.98,false,,United States
+744,6/12/2025,Pro,1324.96,true,,Israel
+745,4/12/2024,Enterprise,1089.75,false,,United States
+746,3/17/2025,Basic,974.13,false,,Israel
+747,12/18/2025,Basic,331.89,false,,Israel
+748,2/2/2024,Enterprise,2306.92,false,,Israel
+749,9/26/2024,Basic,906.14,alse,,United States
+750,7/17/2024,Pro,107.13,false,,United States
+751,3/19/2025,Basic,2141.19,alse,,United States
+752,3/12/2024,Pro,556.45,false,8/30/2025,United States
+753,5/5/2024,Pro,1626.33,true,,Israel
+754,5/25/2024,Pro,746.13,false,,United States
+755,5/30/2024,Basic,1827.54,false,9/2/2024,Israel
+756,3/19/2024,Basic,2199.21,false,,Israel
+757,8/21/2024,Pro,2290.12,false,,United States
+758,5/21/2025,Basic,1033.91,false,,United States
+759,8/16/2024,Pro,2074.81,false,,Israel
+760,5/18/2025,Pro,1933.7,false,,United States
+761,4/17/2025,Enterprise,1204.22,true,,United States
+762,3/8/2024,Pro,2159.25,false,,Israel
+763,3/21/2024,Pro,691.57,false,5/29/2025,Israel
+764,12/27/2024,Enterprise,1015.9,false,,Israel
+765,4/6/2024,Basic,1308.24,false,,Israel
+766,12/28/2025,Enterprise,953.51,false,10/5/2024,United States
+767,9/24/2025,Pro,1983.48,alse,,Israel
+768,8/31/2024,Pro,1838.87,false,,Israel
+769,7/14/2025,Pro,1770.98,false,,United States
+770,9/7/2025,Pro,154.42,false,,United States
+771,7/30/2025,Enterprise,1302.73,false,,Israel
+772,3/2/2024,Basic,916.2,alse,,Israel
+773,4/12/2025,Basic,1620.66,false,,United States
+774,3/22/2025,Enterprise,527.21,false,1/24/2025,United States
+775,7/10/2024,Enterprise,945.93,true,,United States
+776,8/17/2024,Enterprise,2270.29,alse,,Israel
+777,9/8/2024,Enterprise,1852.88,false,,United States
+778,5/4/2024,Pro,420.45,false,,United States
+779,12/6/2024,Enterprise,1473.86,alse,,United States
+780,7/15/2025,Basic,1085.87,true,,Israel
+781,11/8/2025,Enterprise,1041.08,false,,Israel
+782,11/20/2025,Basic,874.67,alse,,Israel
+783,10/16/2024,Pro,907.02,false,,United States
+784,10/4/2025,Pro,2498.14,false,,United States
+785,11/22/2025,Basic,1500.26,true,,United States
+786,3/19/2024,Pro,1366.44,alse,6/25/2025,Israel
+787,9/4/2025,Pro,1955.92,alse,9/7/2024,United States
+788,10/8/2025,Pro,1384.35,false,,United States
+789,7/13/2025,Basic,1226.73,false,,United States
+790,9/19/2025,Basic,1739.81,alse,,Israel
+791,7/12/2024,Pro,1050.17,true,,Israel
+792,8/17/2025,Pro,1234.69,false,,United States
+793,1/31/2025,Pro,177.84,alse,10/28/2024,United States
+794,5/16/2024,Enterprise,1699.79,true,,United States
+795,10/31/2025,Basic,377.5,alse,,United States
+796,3/28/2024,Basic,2451.74,false,,United States
+797,9/19/2025,Pro,1948.36,alse,3/14/2025,Israel
+798,7/18/2025,Pro,645.09,false,,Israel
+799,10/10/2024,Pro,200.83,false,,Israel
+800,5/29/2024,Pro,721.57,alse,,Israel
+801,10/20/2024,Basic,536.4,alse,,United States
+802,11/28/2024,Basic,1830.3,true,8/29/2024,Israel
+803,11/15/2024,Pro,361.99,false,,Israel
+804,10/17/2025,Pro,1806.84,false,,United States
+805,5/10/2025,Pro,1963.57,alse,,United States
+806,9/23/2024,Basic,1168.94,false,,United States
+807,4/21/2025,Basic,359.42,alse,,United States
+808,10/26/2025,Pro,1576.55,false,,Israel
+809,12/8/2024,Basic,562.36,true,,Israel
+810,10/8/2025,Basic,2099.05,false,,Israel
+811,2/22/2025,Enterprise,1088.46,false,,United States
+812,6/16/2024,Basic,432.12,alse,,United States
+813,4/15/2024,Pro,519.92,true,3/26/2025,Israel
+814,12/22/2025,Pro,2004.23,true,,United States
+815,2/4/2025,Pro,1547.06,true,,Israel
+816,5/27/2024,Basic,2476.86,true,,United States
+817,2/14/2025,Basic,1074.95,false,,Israel
+818,4/4/2025,Pro,1748.67,false,,United States
+819,10/7/2025,Basic,923.29,false,,United States
+820,2/3/2024,Enterprise,2128.59,false,,United States
+821,7/24/2025,Basic,487.71,false,,United States
+822,3/9/2024,Pro,376.46,false,,Israel
+823,4/15/2025,Enterprise,1756.67,false,11/19/2024,Israel
+824,2/9/2024,Enterprise,619.22,true,,United States
+825,5/31/2025,Pro,388.79,false,6/30/2025,United States
+826,10/28/2025,Basic,2061.54,false,,United States
+827,11/8/2025,Pro,159.3,alse,,United States
+828,12/28/2024,Basic,376.53,false,8/25/2024,United States
+829,7/3/2025,Basic,2450.46,false,,Israel
+830,11/23/2025,Basic,1572.26,alse,,Israel
+831,3/9/2025,Basic,1647.41,false,,United States
+832,10/17/2024,Pro,2360.66,alse,,Israel
+833,5/29/2024,Basic,2221.41,false,,Israel
+834,8/13/2024,Basic,675.32,alse,,United States
+835,10/30/2025,Basic,1847.84,true,,Israel
+836,6/13/2024,Basic,813.11,false,,Israel
+837,1/15/2026,Basic,119.33,alse,12/29/2024,Israel
+838,5/9/2025,Enterprise,2389.52,false,,Israel
+839,8/21/2025,Pro,2409.99,false,,Israel
+840,10/18/2025,Pro,1540.28,false,,United States
+841,12/13/2024,Basic,890.92,false,3/17/2025,Israel
+842,2/12/2025,Enterprise,2373.71,false,1/2/2025,Israel
+843,12/20/2025,Basic,1051.83,false,10/22/2025,Israel
+844,12/5/2025,Enterprise,149.27,false,,United States
+845,12/21/2025,Basic,635.02,false,1/16/2025,United States
+846,11/23/2024,Basic,2126.69,false,,Israel
+847,5/10/2024,Basic,1126.35,false,,Israel
+848,3/7/2025,Pro,396.54,alse,9/20/2025,Israel
+849,5/17/2024,Pro,817.15,alse,,United States
+850,4/9/2025,Enterprise,1360.16,true,,Israel
+851,10/7/2024,Basic,372.48,false,,United States
+852,3/16/2025,Pro,2382.8,false,,Israel
+853,1/10/2026,Pro,2002.44,false,,United States
+854,9/23/2025,Basic,2443.39,false,,Israel
+855,2/4/2025,Enterprise,2036.54,false,12/15/2025,Israel
+856,1/2/2025,Pro,1184.14,false,9/23/2024,Israel
+857,12/31/2025,Basic,1223.88,alse,6/8/2025,Israel
+858,12/2/2025,Basic,862.79,alse,11/26/2024,United States
+859,6/22/2025,Basic,676.56,false,,Israel
+860,6/21/2025,Basic,441.68,true,4/14/2025,Israel
+861,9/14/2025,Basic,1374.82,false,,Israel
+862,11/28/2025,Pro,597.94,true,,Israel
+863,9/9/2025,Basic,579.57,false,,Israel
+864,10/20/2024,Pro,649.19,false,,Israel
+865,3/9/2025,Basic,1661.28,false,10/5/2024,United States
+866,5/4/2025,Pro,1206.57,true,,United States
+867,6/25/2024,Pro,285.91,true,,Israel
+868,4/9/2025,Basic,1124.52,false,,United States
+869,1/19/2026,Enterprise,355.31,true,,United States
+870,7/18/2025,Basic,359.51,false,,United States
+871,5/12/2025,Pro,1408.04,true,,Israel
+872,4/25/2025,Basic,2139.64,alse,,Israel
+873,11/11/2025,Basic,2488.52,false,,Israel
+874,3/23/2024,Enterprise,424.45,false,,United States
+875,2/10/2024,Basic,266.32,alse,,United States
+876,8/8/2024,Basic,1878.43,false,6/24/2025,United States
+877,8/30/2024,Basic,2226.01,false,,Israel
+878,8/28/2025,Pro,2415.36,false,9/19/2024,United States
+879,9/20/2024,Basic,1414.36,false,,United States
+880,3/4/2024,Pro,2466.0,false,,United States
+881,12/11/2025,Pro,452.31,false,,Israel
+882,8/30/2025,Pro,1461.6,true,,United States
+883,7/16/2024,Enterprise,2349.64,alse,,United States
+884,9/9/2025,Pro,1805.43,false,,United States
+885,2/16/2025,Pro,1957.54,false,1/14/2026,United States
+886,8/28/2025,Pro,1715.92,true,,Israel
+887,9/24/2024,Basic,2377.45,false,,Israel
+888,6/11/2025,Basic,1781.1,true,,Israel
+889,1/26/2025,Enterprise,870.23,true,,United States
+890,5/10/2025,Basic,1820.56,true,,United States
+891,11/13/2024,Pro,751.42,false,,United States
+892,10/9/2025,Basic,1760.79,alse,,United States
+893,11/2/2025,Pro,1075.35,true,,United States
+894,2/17/2024,Pro,1979.08,true,,Israel
+895,7/17/2024,Basic,1976.24,false,,Israel
+896,10/25/2024,Enterprise,1184.51,false,,United States
+897,9/9/2025,Pro,369.45,false,5/20/2025,Israel
+898,6/3/2024,Basic,931.22,false,,Israel
+899,7/14/2024,Pro,658.5,true,,United States
+900,4/5/2025,Enterprise,1922.94,alse,,United States
+901,4/30/2025,Basic,1546.65,alse,,Israel
+902,12/7/2024,Basic,1778.25,false,,Israel
+903,1/30/2024,Pro,697.17,false,,Israel
+904,12/17/2025,Basic,2476.46,true,,Israel
+905,3/21/2024,Pro,2437.68,true,,Israel
+906,3/11/2024,Pro,1728.67,alse,12/14/2024,United States
+907,10/27/2025,Enterprise,1020.97,alse,,United States
+908,3/11/2024,Pro,230.4,alse,,Israel
+909,7/4/2024,Pro,2199.03,false,,United States
+910,2/20/2025,Enterprise,1453.46,false,9/9/2025,United States
+911,10/5/2025,Basic,1675.8,false,,United States
+912,5/22/2024,Pro,2171.28,false,,United States
+913,10/29/2025,Basic,1628.43,false,,United States
+914,6/9/2025,Pro,1963.18,true,,United States
+915,9/6/2024,Basic,2423.68,false,,Israel
+916,2/14/2024,Pro,440.77,false,,United States
+917,5/30/2024,Pro,1087.92,alse,,United States
+918,3/13/2024,Basic,498.87,false,,United States
+919,12/1/2024,Enterprise,1125.03,false,11/24/2024,United States
+920,9/9/2024,Pro,264.13,alse,,Israel
+921,7/20/2024,Basic,1626.64,false,,Israel
+922,10/21/2024,Basic,843.41,false,,Israel
+923,9/5/2024,Pro,398.55,false,,United States
+924,8/31/2025,Basic,2270.93,false,,Israel
+925,10/7/2025,Pro,723.44,false,,Israel
+926,2/24/2024,Pro,1641.36,false,,Israel
+927,2/4/2025,Enterprise,510.65,false,,Israel
+928,4/3/2025,Pro,1895.07,false,,Israel
+929,11/9/2024,Basic,1418.53,false,,Israel
+930,10/31/2024,Pro,1040.88,true,,Israel
+931,3/29/2025,Pro,562.3,false,,United States
+932,4/13/2025,Pro,333.95,false,10/15/2024,Israel
+933,5/1/2025,Pro,2410.52,false,,Israel
+934,1/12/2026,Basic,720.56,false,,United States
+935,11/15/2025,Pro,1857.78,false,,United States
+936,12/30/2024,Pro,1917.78,false,,Israel
+937,12/18/2024,Pro,1517.95,false,3/14/2025,Israel
+938,3/27/2025,Basic,134.49,false,,Israel
+939,5/14/2024,Pro,1641.39,false,,United States
+940,5/16/2025,Pro,2034.21,true,5/11/2025,United States
+941,9/27/2025,Basic,801.38,alse,,United States
+942,4/9/2024,Enterprise,2341.16,false,,Israel
+943,4/21/2024,Pro,231.55,false,,United States
+944,10/4/2025,Basic,686.57,false,,Israel
+945,5/28/2024,Basic,848.17,alse,,United States
+946,11/18/2024,Basic,122.85,alse,,Israel
+947,7/3/2025,Pro,1472.88,false,,Israel
+948,12/14/2025,Pro,2072.66,false,,Israel
+949,12/5/2025,Enterprise,269.4,false,,Israel
+950,7/19/2025,Basic,1911.38,true,,United States
+951,3/26/2025,Pro,2182.34,false,6/8/2025,United States
+952,1/30/2025,Pro,2255.37,false,,Israel
+953,1/6/2026,Basic,1159.45,false,,Israel
+954,2/21/2024,Pro,998.48,false,,Israel
+955,5/4/2024,Basic,1543.57,true,,Israel
+956,11/16/2024,Enterprise,2465.18,false,,Israel
+957,7/3/2024,Basic,667.49,true,,Israel
+958,7/22/2024,Enterprise,1338.23,false,,United States
+959,2/17/2025,Pro,1093.37,true,4/10/2025,United States
+960,2/1/2024,Basic,126.41,alse,5/9/2025,Israel
+961,10/7/2024,Enterprise,1611.75,false,,United States
+962,1/7/2025,Pro,764.34,false,,Israel
+963,9/30/2025,Basic,1955.55,true,,Israel
+964,3/8/2025,Pro,749.51,false,,Israel
+965,1/6/2025,Pro,1642.56,alse,,Israel
+966,11/20/2025,Enterprise,1816.57,false,,Israel
+967,10/3/2024,Enterprise,1104.9,false,,Israel
+968,4/4/2025,Basic,1233.17,false,,Israel
+969,6/9/2025,Basic,305.96,false,,United States
+970,5/13/2024,Basic,843.2,false,,United States
+971,11/2/2024,Pro,1486.72,false,,Israel
+972,11/28/2024,Pro,2063.61,true,9/11/2025,United States
+973,10/5/2025,Enterprise,2173.01,false,4/6/2025,United States
+974,11/22/2024,Pro,2019.51,false,,Israel
+975,1/18/2026,Pro,932.07,false,,Israel
+976,10/29/2024,Pro,2040.26,false,,Israel
+977,9/11/2025,Pro,2474.5,true,1/3/2025,Israel
+978,9/9/2025,Basic,931.57,false,,United States
+979,5/14/2024,Basic,1214.17,false,,Israel
+980,3/10/2025,Pro,385.91,false,,United States
+981,6/7/2025,Pro,167.32,false,11/30/2025,United States
+982,1/11/2025,Pro,1271.45,false,,Israel
+983,9/25/2024,Enterprise,260.55,false,10/12/2025,United States
+984,3/11/2025,Basic,2087.43,false,,Israel
+985,3/1/2025,Basic,2043.93,false,,United States
+986,4/17/2025,Basic,793.37,alse,,United States
+987,12/3/2025,Pro,1781.0,false,,Israel
+988,10/1/2025,Pro,1144.72,true,,United States
+989,7/8/2024,Basic,2336.22,alse,,United States
+990,5/10/2025,Enterprise,1416.86,alse,,United States
+991,4/20/2025,Pro,2166.2,true,,Israel
+992,2/17/2025,Basic,1895.33,true,,United States
+993,9/28/2025,Enterprise,1543.32,alse,,United States
+994,5/19/2024,Enterprise,1397.55,false,,Israel
+995,5/18/2025,Basic,1684.52,false,,Israel
+996,12/22/2025,Basic,455.17,true,,Israel
+997,4/9/2024,Enterprise,1212.78,false,,United States
+998,5/12/2025,Pro,443.19,false,2/17/2025,United States
+999,4/26/2024,Pro,2098.67,false,,Israel
+1000,10/27/2025,Basic,2024.83,true,,United States

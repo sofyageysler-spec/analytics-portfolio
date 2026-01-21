@@ -1,0 +1,1001 @@
+lead_id,bdr_name,status,source,created_date
+1,Julita Heritege,Cold Calling,Sales Qualified Lead,10/16/2024
+2,Margeaux Parker,Cold Calling,Sales Qualified Lead,11/4/2025
+3,Nicko Fattore,LinkedIn,Sales Qualified Lead,8/28/2024
+4,Abdel Viegas,Cold Calling,New,12/27/2024
+5,Fitz Casellas,Cold Calling,New,1/19/2025
+6,Karly Ouldred,LinkedIn,New,4/9/2025
+7,Cristal Deesly,Cold Calling,Marketing Qalified Lead,11/10/2025
+8,Effie Trickett,LinkedIn,New,9/8/2025
+9,Nigel Robjant,Cold Calling,Sales Qualified Lead,6/28/2025
+10,Tirrell Ravel,LinkedIn,Marketing Qalified Lead,4/12/2025
+11,Angy Giacaponi,LinkedIn,New,4/17/2025
+12,Tiphanie Spindler,LinkedIn,New,11/12/2024
+13,Amalee Grewe,LinkedIn,Marketing Qalified Lead,11/21/2024
+14,Frances Vanlint,Cold Calling,Marketing Qalified Lead,2/24/2025
+15,Kathryn Gilbey,Cold Calling,New,1/16/2025
+16,Tracy Penney,LinkedIn,Sales Qualified Lead,3/7/2025
+17,Lockwood Till,LinkedIn,Open Deal,10/13/2025
+18,Chevy Daltrey,LinkedIn,New,2/24/2025
+19,Tom McDill,LinkedIn,Sales Qualified Lead,8/20/2025
+20,Davy Gyse,Cold Calling,New,10/15/2024
+21,Robby Titmuss,LinkedIn,New,7/12/2024
+22,Arlene Pursglove,LinkedIn,New,7/31/2025
+23,Jodi Lincke,Cold Calling,Sales Qualified Lead,12/3/2024
+24,Shelden Giabuzzi,Cold Calling,Marketing Qalified Lead,5/20/2025
+25,Jorrie Patillo,LinkedIn,New,9/21/2024
+26,Tom Lghan,Cold Calling,Marketing Qalified Lead,4/27/2025
+27,Alvy MacMearty,Cold Calling,Sales Qualified Lead,8/26/2024
+28,Brier Nice,LinkedIn,New,7/20/2024
+29,Malvina Marvelley,LinkedIn,Marketing Qalified Lead,1/9/2025
+30,Danny Nelligan,LinkedIn,New,1/16/2025
+31,Shepperd Sellman,Cold Calling,Marketing Qalified Lead,9/30/2024
+32,Alair Heape,LinkedIn,New,9/14/2025
+33,Rossie Reckus,LinkedIn,New,12/27/2024
+34,Sharona Gudde,LinkedIn,New,9/21/2024
+35,Rita Warbrick,Cold Calling,Sales Qualified Lead,12/17/2025
+36,Jacinta Negri,Cold Calling,New,9/4/2024
+37,Jameson Domanek,LinkedIn,Marketing Qalified Lead,7/16/2024
+38,Jasmine Whelpdale,Cold Calling,Open Deal,5/23/2025
+39,Dinnie Ciardo,LinkedIn,Marketing Qalified Lead,8/10/2024
+40,Scarface Massingham,Cold Calling,New,6/27/2025
+41,Valida Axe,LinkedIn,Sales Qualified Lead,4/20/2025
+42,Fredek Hefferan,Cold Calling,In Process,7/2/2025
+43,Raymund Dempsey,LinkedIn,New,9/5/2025
+44,Lida Kytley,LinkedIn,New,11/14/2024
+45,Irita Frankel,LinkedIn,New,7/21/2024
+46,Ali Rigolle,LinkedIn,New,7/16/2024
+47,Shawnee Honack,LinkedIn,Sales Qualified Lead,9/1/2024
+48,Allyn Duckerin,Cold Calling,Sales Qualified Lead,5/17/2025
+49,Glori Cramphorn,Cold Calling,New,1/10/2025
+50,Debee Sille,LinkedIn,In Process,9/15/2025
+51,Darlleen Jain,LinkedIn,New,8/13/2025
+52,Merrili Burnip,Cold Calling,Marketing Qalified Lead,6/9/2025
+53,Bevin Ninnis,LinkedIn,Sales Qualified Lead,7/18/2024
+54,Briant Gianneschi,LinkedIn,Marketing Qalified Lead,11/9/2024
+55,Jerrilee Roman,LinkedIn,In Process,10/21/2024
+56,Winslow Sambals,LinkedIn,Sales Qualified Lead,9/30/2024
+57,Adrianna Shills,LinkedIn,New,5/9/2025
+58,Cherie Spensly,LinkedIn,Marketing Qalified Lead,7/30/2025
+59,Dylan Zorn,Cold Calling,New,8/2/2025
+60,Jillie Pirrey,Cold Calling,New,5/21/2025
+61,Nerissa Kubecka,LinkedIn,Sales Qualified Lead,11/20/2025
+62,Charin Graffin,LinkedIn,Sales Qualified Lead,2/15/2025
+63,Osbert Lantoph,Cold Calling,New,2/26/2025
+64,Donovan Rozea,Cold Calling,Sales Qualified Lead,12/17/2024
+65,Anstice Alyukin,LinkedIn,In Process,8/22/2024
+66,Cathyleen Browning,Cold Calling,In Process,2/28/2025
+67,Janaya Stockdale,Cold Calling,In Process,9/1/2025
+68,Marlene McLernon,Cold Calling,New,8/3/2024
+69,Reggie Neligan,Cold Calling,In Process,6/4/2025
+70,Blondy Sawdy,Cold Calling,Open Deal,10/2/2025
+71,Rivi Drinkhill,LinkedIn,New,1/19/2026
+72,Fabe Spennock,Cold Calling,In Process,11/18/2024
+73,Fiona Scallon,LinkedIn,Sales Qualified Lead,11/21/2024
+74,Padgett Godfree,LinkedIn,Open Deal,7/15/2024
+75,Jsandye Sloat,LinkedIn,New,9/8/2024
+76,Munmro Ortner,LinkedIn,Marketing Qalified Lead,12/11/2024
+77,Jud Berridge,LinkedIn,Sales Qualified Lead,8/9/2024
+78,Nicol Randlesome,Cold Calling,In Process,1/6/2025
+79,Haily Pippin,LinkedIn,New,10/15/2024
+80,Kassi Hitchens,LinkedIn,New,3/23/2025
+81,Aeriela Conkay,LinkedIn,Marketing Qalified Lead,11/8/2024
+82,Claudetta Witherbed,LinkedIn,In Process,7/2/2024
+83,Olav Shillam,LinkedIn,Marketing Qalified Lead,1/15/2026
+84,Bianka Hendrickson,Cold Calling,Sales Qualified Lead,9/2/2024
+85,Darleen Hakking,Cold Calling,New,6/5/2025
+86,Isacco Redmond,LinkedIn,Marketing Qalified Lead,6/16/2025
+87,Delmore Gunstone,Cold Calling,In Process,4/15/2025
+88,Bibbye Franzetti,LinkedIn,Marketing Qalified Lead,1/3/2026
+89,Pammie Sarfatti,LinkedIn,New,7/28/2025
+90,Loria Jerzykiewicz,Cold Calling,Marketing Qalified Lead,11/8/2025
+91,Vikky Cottis,Cold Calling,Marketing Qalified Lead,11/17/2024
+92,Elyssa Brahm,LinkedIn,Sales Qualified Lead,10/5/2025
+93,Ania Barltrop,LinkedIn,Marketing Qalified Lead,1/13/2025
+94,Ellen Mustchin,LinkedIn,In Process,10/4/2025
+95,Jennica Peabody,Cold Calling,New,7/9/2024
+96,Giacomo O'Cuddie,LinkedIn,Marketing Qalified Lead,3/29/2025
+97,Becca Kubicki,LinkedIn,In Process,11/5/2024
+98,Verney Gumn,LinkedIn,New,12/16/2025
+99,Carri Rehn,Cold Calling,Marketing Qalified Lead,11/28/2025
+100,Gavrielle Suthworth,LinkedIn,New,8/3/2024
+101,Murvyn Hassent,LinkedIn,Marketing Qalified Lead,6/29/2025
+102,Ansell Najera,LinkedIn,New,6/10/2025
+103,Friedrick Bunney,LinkedIn,New,8/1/2025
+104,Goldia Eingerfield,Cold Calling,Marketing Qalified Lead,1/12/2025
+105,Olympie Buard,LinkedIn,New,7/16/2025
+106,Petrina Bonfield,Cold Calling,New,12/30/2024
+107,Berkeley Binham,LinkedIn,Sales Qualified Lead,6/5/2025
+108,Michal Gutch,LinkedIn,Marketing Qalified Lead,9/23/2024
+109,Ara McCuis,LinkedIn,Marketing Qalified Lead,4/28/2025
+110,Georas Brundrett,LinkedIn,Marketing Qalified Lead,6/17/2025
+111,Cordell Kuhwald,LinkedIn,In Process,10/13/2024
+112,Frederigo Sterman,Cold Calling,Marketing Qalified Lead,8/9/2024
+113,Dunn Siviter,LinkedIn,Sales Qualified Lead,10/24/2024
+114,Rupert Capner,LinkedIn,New,5/6/2025
+115,Bili Devenport,Cold Calling,Sales Qualified Lead,1/24/2025
+116,Patrice Seville,Cold Calling,Marketing Qalified Lead,4/25/2025
+117,Debra Loadman,Cold Calling,New,1/26/2025
+118,Deanna Vedstra,LinkedIn,Marketing Qalified Lead,4/6/2025
+119,Boony Makiver,LinkedIn,New,9/30/2024
+120,Marcellus Asif,LinkedIn,New,5/13/2025
+121,Roddy Poveleye,Cold Calling,Sales Qualified Lead,9/7/2024
+122,Bartel Muldownie,Cold Calling,New,9/23/2024
+123,Aurora Pashba,Cold Calling,Open Deal,8/5/2025
+124,Fay Pacey,Cold Calling,Marketing Qalified Lead,11/29/2025
+125,Damon Wennam,Cold Calling,New,12/5/2024
+126,Starla Hagger,LinkedIn,New,1/22/2025
+127,Sophey Mackneis,LinkedIn,Marketing Qalified Lead,7/6/2024
+128,Giffie McCreery,Cold Calling,Sales Qualified Lead,7/5/2024
+129,Salvatore Nutley,LinkedIn,Sales Qualified Lead,5/29/2025
+130,Kathryn Bruyns,LinkedIn,New,5/20/2025
+131,Jessi Stooders,Cold Calling,New,7/9/2025
+132,Lawrence Cattermole,LinkedIn,Marketing Qalified Lead,12/24/2025
+133,Fayth Jenteau,Cold Calling,In Process,9/6/2025
+134,Babbie Pearch,LinkedIn,New,9/28/2024
+135,Rock Adne,LinkedIn,New,4/22/2025
+136,Pernell Jurs,Cold Calling,Marketing Qalified Lead,7/27/2024
+137,Morna Brookes,Cold Calling,New,8/16/2024
+138,Velma Passo,Cold Calling,Marketing Qalified Lead,12/7/2024
+139,Florette Leefe,LinkedIn,New,11/20/2025
+140,Bancroft Elsay,Cold Calling,Marketing Qalified Lead,3/3/2025
+141,Brina Gerish,LinkedIn,Marketing Qalified Lead,2/26/2025
+142,Dodi Steanyng,Cold Calling,Open Deal,7/9/2024
+143,Myrlene Gosford,Cold Calling,Open Deal,12/24/2025
+144,Dunc Fynn,LinkedIn,Sales Qualified Lead,9/11/2025
+145,Lucky Vanlint,Cold Calling,New,9/1/2024
+146,Joeann Ibbeson,Cold Calling,Sales Qualified Lead,6/16/2025
+147,Cornie Fforde,Cold Calling,In Process,1/19/2025
+148,Sanford Fentem,LinkedIn,New,7/5/2025
+149,Arley Fairbeard,Cold Calling,Marketing Qalified Lead,1/6/2026
+150,Dayle Colloby,LinkedIn,Marketing Qalified Lead,10/13/2024
+151,Marj Wartonby,Cold Calling,New,7/31/2024
+152,Kaila Milkeham,Cold Calling,New,3/8/2025
+153,Hazel Potte,Cold Calling,New,1/11/2026
+154,Rina Fletcher,LinkedIn,New,8/14/2024
+155,Ysabel Boarder,Cold Calling,New,1/29/2025
+156,Georgie Dolohunty,LinkedIn,Marketing Qalified Lead,7/11/2024
+157,Sylvester Sallery,Cold Calling,Sales Qualified Lead,8/6/2024
+158,Hanna Smithers,Cold Calling,New,12/15/2024
+159,Blisse Bettinson,LinkedIn,In Process,8/31/2025
+160,Sherri Bowick,LinkedIn,Marketing Qalified Lead,12/5/2024
+161,Bary Duffree,Cold Calling,New,2/4/2025
+162,Merrilee McLleese,Cold Calling,Marketing Qalified Lead,4/21/2025
+163,Maud Fullerton,LinkedIn,In Process,11/19/2024
+164,Shelia Adin,Cold Calling,New,4/21/2025
+165,Kimball Armsby,LinkedIn,Marketing Qalified Lead,11/26/2025
+166,Kennith Boissier,LinkedIn,New,7/12/2025
+167,Logan Hummerston,LinkedIn,New,4/28/2025
+168,Bendite Oatley,LinkedIn,New,4/15/2025
+169,Neila Randall,LinkedIn,In Process,1/5/2026
+170,Sunny Pawelski,Cold Calling,Sales Qualified Lead,6/25/2025
+171,Heinrick Lardnar,Cold Calling,Marketing Qalified Lead,12/8/2024
+172,Nonah Andras,LinkedIn,Sales Qualified Lead,12/9/2024
+173,Skippy McGreay,LinkedIn,New,12/10/2025
+174,Steward Pinchback,LinkedIn,New,12/15/2025
+175,Auberta Aubery,Cold Calling,New,5/10/2025
+176,Evelyn Murtimer,Cold Calling,New,12/28/2024
+177,Germana Lauchlan,Cold Calling,In Process,11/1/2025
+178,Alysa Clyma,Cold Calling,Marketing Qalified Lead,3/13/2025
+179,Casey Baigrie,Cold Calling,New,12/17/2024
+180,Eachelle Heck,LinkedIn,Open Deal,3/2/2025
+181,Claresta Biskupski,LinkedIn,Sales Qualified Lead,9/17/2025
+182,Lothaire De Marchi,Cold Calling,New,1/17/2026
+183,Ellis Proby,LinkedIn,Marketing Qalified Lead,9/13/2024
+184,Aeriela Pipes,Cold Calling,In Process,9/30/2024
+185,Johannes Middlemist,Cold Calling,Marketing Qalified Lead,3/27/2025
+186,Any Rodolico,Cold Calling,Marketing Qalified Lead,7/4/2025
+187,Dalston Vezey,LinkedIn,New,9/22/2024
+188,Dru Matveiko,LinkedIn,Marketing Qalified Lead,4/5/2025
+189,Yuri Breakey,Cold Calling,New,12/2/2024
+190,Serena Pascow,Cold Calling,New,10/14/2024
+191,Abbie Chitter,LinkedIn,Marketing Qalified Lead,11/4/2024
+192,Keane Glaum,LinkedIn,New,10/22/2025
+193,Gualterio Westmacott,Cold Calling,Marketing Qalified Lead,11/1/2024
+194,Barbe Hazelhurst,LinkedIn,New,1/20/2025
+195,Moyna Bukowski,Cold Calling,New,9/8/2025
+196,Jeffie Brasted,LinkedIn,In Process,7/14/2024
+197,Jody Hubberstey,LinkedIn,Marketing Qalified Lead,10/15/2025
+198,Elmore Barrabeale,Cold Calling,New,7/29/2024
+199,Haleigh Stainson,LinkedIn,Marketing Qalified Lead,3/12/2025
+200,Mortie Wrightham,LinkedIn,Marketing Qalified Lead,5/19/2025
+201,Bjorn Neachell,LinkedIn,New,3/11/2025
+202,Josi Knudsen,Cold Calling,New,10/30/2024
+203,Hollie Borrowman,Cold Calling,Marketing Qalified Lead,9/27/2025
+204,Meggy Cleyburn,LinkedIn,New,4/15/2025
+205,Alan Lattin,LinkedIn,New,7/24/2024
+206,Greta Blagbrough,Cold Calling,Marketing Qalified Lead,12/2/2025
+207,Jacquenetta Shakespeare,LinkedIn,New,1/19/2026
+208,Josephine Denson,LinkedIn,New,3/20/2025
+209,Donalt Siburn,Cold Calling,Marketing Qalified Lead,2/8/2025
+210,Henrik Stopforth,LinkedIn,Sales Qualified Lead,11/14/2025
+211,Tersina Gertray,Cold Calling,Sales Qualified Lead,8/29/2024
+212,Pernell Aronovitz,Cold Calling,Open Deal,3/15/2025
+213,Aila Hourigan,Cold Calling,Sales Qualified Lead,12/14/2024
+214,Vivianne Spivey,Cold Calling,Marketing Qalified Lead,1/21/2025
+215,Philly Giovannoni,Cold Calling,Marketing Qalified Lead,11/18/2025
+216,Eric Dufall,LinkedIn,New,6/6/2025
+217,Vladamir Justham,LinkedIn,Open Deal,8/12/2024
+218,Padget Shorthouse,Cold Calling,Open Deal,4/27/2025
+219,Sayer Pile,Cold Calling,Marketing Qalified Lead,8/31/2025
+220,Nickolaus Metcalf,Cold Calling,New,9/3/2024
+221,Leo Mawdsley,Cold Calling,New,5/5/2025
+222,Bucky Ricardin,LinkedIn,New,10/22/2025
+223,Igor Scutchin,LinkedIn,New,9/10/2024
+224,Gretchen Chipperfield,Cold Calling,New,10/2/2025
+225,Melicent McKag,Cold Calling,New,9/29/2025
+226,Starlin Manners,LinkedIn,Sales Qualified Lead,11/2/2024
+227,Elden Stoker,Cold Calling,New,9/30/2025
+228,Britte Maleck,Cold Calling,In Process,1/22/2025
+229,Celestia Bagnal,Cold Calling,Marketing Qalified Lead,12/31/2025
+230,Sly Penticost,Cold Calling,Marketing Qalified Lead,9/27/2025
+231,Iorgo Marchenko,Cold Calling,New,12/19/2025
+232,Arabel Ovitts,Cold Calling,Marketing Qalified Lead,10/26/2024
+233,Nady Pascow,Cold Calling,Sales Qualified Lead,6/13/2025
+234,Andrey Bownde,LinkedIn,Marketing Qalified Lead,11/19/2024
+235,Rowland Billison,LinkedIn,New,3/29/2025
+236,Torre Dutnall,LinkedIn,Sales Qualified Lead,9/3/2024
+237,Pepita Paxeford,Cold Calling,New,7/16/2025
+238,Constancy Featherstonhaugh,Cold Calling,New,7/19/2025
+239,Thadeus Sallarie,LinkedIn,New,8/30/2025
+240,Vanny Strewther,LinkedIn,Sales Qualified Lead,1/22/2025
+241,Colver Muglestone,LinkedIn,Marketing Qalified Lead,11/24/2025
+242,Booth Metrick,LinkedIn,New,2/27/2025
+243,Nike Wellstead,Cold Calling,New,10/28/2025
+244,Ethe McCluin,Cold Calling,Sales Qualified Lead,11/30/2024
+245,Rosabel Mathet,LinkedIn,Marketing Qalified Lead,9/8/2025
+246,Edmund Swafield,Cold Calling,New,7/14/2024
+247,Inglis Ayton,LinkedIn,New,8/22/2025
+248,Tabatha Taffarello,LinkedIn,New,6/23/2025
+249,Zachary Van T'Hoog,Cold Calling,New,1/7/2026
+250,Chiarra Braidwood,LinkedIn,New,9/25/2024
+251,Bryce Sapir,Cold Calling,Marketing Qalified Lead,8/27/2025
+252,Gabriel Remmer,Cold Calling,Marketing Qalified Lead,6/18/2025
+253,Ekaterina Lovemore,LinkedIn,New,10/27/2024
+254,Hughie O' Gara,Cold Calling,New,12/7/2024
+255,Micki McEntegart,Cold Calling,Marketing Qalified Lead,9/8/2025
+256,Adel Collidge,Cold Calling,Marketing Qalified Lead,7/24/2024
+257,Riannon Lumby,Cold Calling,New,10/27/2024
+258,Kattie Aguilar,LinkedIn,Open Deal,8/23/2025
+259,Lynett Jellis,Cold Calling,New,7/5/2024
+260,Edee Ebbens,Cold Calling,In Process,8/23/2025
+261,Randell Swiggs,LinkedIn,Marketing Qalified Lead,10/29/2024
+262,Neville Francescone,Cold Calling,Marketing Qalified Lead,10/2/2024
+263,Gates Philpin,LinkedIn,New,9/17/2024
+264,Wayne Gon,LinkedIn,New,4/29/2025
+265,Stephana Vaggers,Cold Calling,New,11/26/2025
+266,Giuditta Pash,LinkedIn,Sales Qualified Lead,10/21/2025
+267,Kiah Mayou,LinkedIn,Sales Qualified Lead,1/12/2026
+268,Xavier Awdry,LinkedIn,New,12/28/2024
+269,Robinett Djekovic,LinkedIn,New,9/29/2024
+270,Tabbitha Ciccarelli,LinkedIn,New,2/25/2025
+271,Glenda Close,LinkedIn,Marketing Qalified Lead,12/10/2025
+272,Arlina Matthew,Cold Calling,New,6/21/2025
+273,Gayleen Yardy,LinkedIn,Marketing Qalified Lead,1/27/2025
+274,Lisle Shipp,LinkedIn,Sales Qualified Lead,3/23/2025
+275,Abbe Souness,LinkedIn,Marketing Qalified Lead,11/18/2025
+276,Tracee Arnison,Cold Calling,In Process,9/26/2024
+277,Fredericka Closs,LinkedIn,New,9/17/2024
+278,Justinian Elloit,Cold Calling,Open Deal,6/23/2025
+279,Anselm Bulgen,LinkedIn,New,9/22/2025
+280,June Paolozzi,LinkedIn,Sales Qualified Lead,12/13/2025
+281,Dean King,Cold Calling,Sales Qualified Lead,1/29/2025
+282,Constancia French,LinkedIn,New,8/7/2024
+283,Sherlock Aindriu,LinkedIn,New,12/5/2025
+284,Charissa Snowling,LinkedIn,Marketing Qalified Lead,6/13/2025
+285,Damara McGookin,Cold Calling,In Process,12/4/2025
+286,Tami Swanborrow,LinkedIn,New,3/11/2025
+287,Roman Millam,Cold Calling,Sales Qualified Lead,5/16/2025
+288,Biddy Eades,LinkedIn,In Process,7/1/2025
+289,Fernanda Deveraux,LinkedIn,New,12/22/2025
+290,Bartlet McEnhill,Cold Calling,Marketing Qalified Lead,11/26/2024
+291,Cordell Eichmann,LinkedIn,New,8/22/2024
+292,Angelia Truder,Cold Calling,In Process,9/2/2025
+293,Chloris Caddens,LinkedIn,Marketing Qalified Lead,8/18/2024
+294,Elaina Ellery,LinkedIn,Sales Qualified Lead,8/24/2024
+295,Raddie Weth,Cold Calling,In Process,1/5/2025
+296,Yard Causey,Cold Calling,Marketing Qalified Lead,7/28/2025
+297,Alphard Pigrome,Cold Calling,Sales Qualified Lead,6/12/2025
+298,Sarita Unthank,LinkedIn,Sales Qualified Lead,6/29/2025
+299,Tera Proffitt,LinkedIn,In Process,11/4/2024
+300,Florian Lafond,Cold Calling,New,8/29/2024
+301,Thatcher Greatorex,Cold Calling,Marketing Qalified Lead,1/2/2025
+302,Ulla Schankel,LinkedIn,In Process,4/10/2025
+303,Jodie Cowpland,Cold Calling,New,4/12/2025
+304,Temp Fulford,LinkedIn,New,9/29/2025
+305,Adelaida McCreadie,Cold Calling,Sales Qualified Lead,9/23/2025
+306,Lorrie Yaldren,LinkedIn,Sales Qualified Lead,8/18/2024
+307,Natty Swaysland,Cold Calling,New,3/28/2025
+308,Gabriell Olexa,Cold Calling,New,8/5/2025
+309,Marylin Mantz,LinkedIn,New,8/22/2025
+310,Rex Egentan,LinkedIn,Marketing Qalified Lead,12/20/2024
+311,Rusty Oliveras,Cold Calling,New,9/3/2025
+312,Lucia Powter,Cold Calling,Sales Qualified Lead,4/20/2025
+313,Zachary Kaemena,LinkedIn,Marketing Qalified Lead,9/27/2025
+314,Ann Reedshaw,LinkedIn,New,7/27/2024
+315,Evangelin Silverwood,LinkedIn,New,1/25/2025
+316,Vickie Baggally,Cold Calling,In Process,9/25/2025
+317,Ilka Aggiss,LinkedIn,Marketing Qalified Lead,7/17/2025
+318,Jaquith Higounet,LinkedIn,In Process,9/5/2025
+319,Kilian Beri,LinkedIn,New,9/13/2024
+320,Dorolice Senyard,Cold Calling,Marketing Qalified Lead,8/12/2024
+321,Issi Murfin,Cold Calling,New,7/13/2025
+322,Emmalynn Sayce,LinkedIn,Open Deal,1/6/2025
+323,Leta Meaking,LinkedIn,New,12/7/2024
+324,Sibeal Dumbleton,Cold Calling,In Process,3/20/2025
+325,Maxie Peerman,LinkedIn,Marketing Qalified Lead,11/24/2025
+326,Terencio Fullwood,Cold Calling,Marketing Qalified Lead,11/11/2024
+327,Alasdair Desmond,LinkedIn,New,6/3/2025
+328,Peggi Rulf,Cold Calling,New,12/5/2024
+329,Tonnie Needs,Cold Calling,New,1/11/2025
+330,Gregoire Schuster,LinkedIn,New,1/25/2025
+331,Efrem Pike,LinkedIn,Marketing Qalified Lead,12/3/2025
+332,Jaynell Late,LinkedIn,Marketing Qalified Lead,10/6/2025
+333,Arlee Shilburne,Cold Calling,Marketing Qalified Lead,7/8/2025
+334,Mirna Waud,Cold Calling,New,10/6/2025
+335,Corine Paoli,LinkedIn,New,12/12/2025
+336,Gottfried Ethridge,Cold Calling,In Process,8/26/2025
+337,Prent Ainge,LinkedIn,Marketing Qalified Lead,6/5/2025
+338,Jaimie Camellini,LinkedIn,Sales Qualified Lead,12/22/2025
+339,Adams Janowicz,Cold Calling,Open Deal,1/23/2025
+340,Susannah Syddie,LinkedIn,New,6/29/2025
+341,Tobit McGucken,Cold Calling,New,7/8/2024
+342,Hildegaard Misselbrook,LinkedIn,Marketing Qalified Lead,6/21/2025
+343,Vin Speare,LinkedIn,Open Deal,12/11/2025
+344,Christiano Laise,LinkedIn,Marketing Qalified Lead,7/25/2025
+345,Sari Kindread,Cold Calling,New,7/6/2024
+346,Kym Soule,LinkedIn,New,2/21/2025
+347,Orazio Kellert,LinkedIn,In Process,10/4/2025
+348,Mick Fulton,Cold Calling,Open Deal,7/29/2025
+349,Melloney Watting,LinkedIn,Marketing Qalified Lead,11/11/2024
+350,Bride Huton,LinkedIn,Marketing Qalified Lead,3/30/2025
+351,Legra Gourlie,Cold Calling,Marketing Qalified Lead,8/16/2024
+352,Massimiliano Spreckley,Cold Calling,Marketing Qalified Lead,8/14/2025
+353,Dodie Britch,LinkedIn,Marketing Qalified Lead,7/25/2025
+354,Gail Bransdon,LinkedIn,Marketing Qalified Lead,8/10/2024
+355,Findley MacVicar,LinkedIn,New,12/7/2025
+356,Stephi Blackwood,Cold Calling,Marketing Qalified Lead,8/3/2025
+357,Dudley Blaisdale,Cold Calling,New,8/10/2025
+358,Dasie Woolway,LinkedIn,Open Deal,8/31/2025
+359,Lorant Paddon,LinkedIn,Sales Qualified Lead,2/20/2025
+360,Fanni Ferrettino,LinkedIn,Sales Qualified Lead,10/3/2024
+361,Jaquelyn Roches,LinkedIn,New,9/23/2024
+362,Lynna Denning,Cold Calling,In Process,7/8/2024
+363,Bald Spowart,LinkedIn,Sales Qualified Lead,11/29/2024
+364,Alejoa Thing,Cold Calling,Marketing Qalified Lead,5/16/2025
+365,Boot Hembling,LinkedIn,New,10/6/2025
+366,Ogdon Hitschke,LinkedIn,Marketing Qalified Lead,8/19/2025
+367,Opal Bramwell,LinkedIn,New,11/24/2025
+368,Wilhelmina Milkeham,Cold Calling,New,10/8/2025
+369,Jocelyne Tween,LinkedIn,New,6/12/2025
+370,Amaleta Durbyn,Cold Calling,New,7/27/2024
+371,August Aylesbury,Cold Calling,New,12/15/2024
+372,Dreddy Branney,Cold Calling,New,9/9/2024
+373,Waylon Cornehl,LinkedIn,Marketing Qalified Lead,6/23/2025
+374,Gussie Czajka,Cold Calling,Sales Qualified Lead,3/13/2025
+375,Morena Crowch,Cold Calling,In Process,3/15/2025
+376,Lavinia Huxton,Cold Calling,New,7/20/2024
+377,Harwell Bakesef,LinkedIn,Sales Qualified Lead,3/20/2025
+378,Orsola Ambrus,Cold Calling,Sales Qualified Lead,5/26/2025
+379,Benedicta Zeplin,Cold Calling,Sales Qualified Lead,12/6/2024
+380,Kathlin Hail,LinkedIn,New,10/29/2024
+381,Roderich Hanaford,LinkedIn,New,8/13/2024
+382,Lenard Teale,LinkedIn,New,8/15/2025
+383,Rafaelita Fawdrey,LinkedIn,New,12/26/2025
+384,Ulrica Mottini,LinkedIn,Marketing Qalified Lead,5/29/2025
+385,Jared Giorgini,LinkedIn,Sales Qualified Lead,9/15/2025
+386,Joann Gozney,Cold Calling,New,12/11/2025
+387,Pavla Kingzett,Cold Calling,New,3/31/2025
+388,Evangeline Blankman,LinkedIn,New,12/4/2025
+389,Abagail Ridout,LinkedIn,Marketing Qalified Lead,1/5/2026
+390,Alasteir Bonn,Cold Calling,Sales Qualified Lead,1/23/2025
+391,Adelbert Pledger,Cold Calling,Marketing Qalified Lead,10/4/2025
+392,Shae Lambal,Cold Calling,New,12/9/2025
+393,Kaylil McHan,Cold Calling,In Process,12/1/2024
+394,Harlen Thwaites,LinkedIn,Sales Qualified Lead,8/22/2024
+395,Helaine Lethley,LinkedIn,Marketing Qalified Lead,4/22/2025
+396,Gratia Dingsdale,Cold Calling,Open Deal,8/28/2025
+397,Amii Garnsey,Cold Calling,Sales Qualified Lead,10/2/2025
+398,Hasheem Igounet,LinkedIn,Sales Qualified Lead,2/24/2025
+399,Danni Bowering,Cold Calling,Marketing Qalified Lead,6/25/2025
+400,Zita Oleksinski,Cold Calling,New,10/3/2024
+401,Addie Bowling,LinkedIn,New,11/22/2025
+402,Tanny MacDermot,LinkedIn,New,11/8/2024
+403,Mord Braunes,Cold Calling,Open Deal,7/20/2024
+404,Charla Lemmertz,LinkedIn,Marketing Qalified Lead,1/28/2025
+405,Adan Northley,LinkedIn,Marketing Qalified Lead,11/20/2024
+406,Ashlie Samart,Cold Calling,Sales Qualified Lead,12/19/2024
+407,Kiele Helwig,Cold Calling,Marketing Qalified Lead,10/17/2025
+408,Broderick Siggery,LinkedIn,New,2/10/2025
+409,Melisa Vallery,Cold Calling,New,11/10/2025
+410,Heidie Drysdall,LinkedIn,New,1/26/2025
+411,Astrix Skea,LinkedIn,New,2/9/2025
+412,Fredra Nicely,Cold Calling,Marketing Qalified Lead,5/9/2025
+413,Welch Treske,LinkedIn,New,9/5/2025
+414,Arluene Trayton,Cold Calling,New,10/21/2024
+415,Merwin Franzonetti,Cold Calling,Marketing Qalified Lead,12/22/2025
+416,Man Pomphrey,Cold Calling,Marketing Qalified Lead,7/16/2024
+417,Kayne Cowing,LinkedIn,Sales Qualified Lead,4/13/2025
+418,Normy Edling,LinkedIn,New,7/30/2024
+419,Clary Palmar,Cold Calling,Marketing Qalified Lead,10/13/2024
+420,Leoine Claris,LinkedIn,New,10/23/2025
+421,Moshe Brisland,LinkedIn,Open Deal,2/18/2025
+422,Datha Gosforth,LinkedIn,Open Deal,8/6/2024
+423,Ermina Goane,LinkedIn,Open Deal,3/8/2025
+424,Robin Gwyther,Cold Calling,New,4/9/2025
+425,King Camelli,Cold Calling,New,7/17/2024
+426,Elke Gerholz,LinkedIn,Marketing Qalified Lead,2/10/2025
+427,Edgardo Kubanek,LinkedIn,New,11/25/2025
+428,Joane Lambricht,Cold Calling,New,7/2/2025
+429,Elaina Francesch,Cold Calling,Marketing Qalified Lead,1/3/2026
+430,Eugenio Cherm,Cold Calling,New,8/14/2025
+431,Earlie Kenchington,Cold Calling,New,10/15/2024
+432,Rica Shambroke,LinkedIn,New,7/15/2024
+433,Ed Capaldo,Cold Calling,New,12/2/2025
+434,Myranda McGahey,Cold Calling,Marketing Qalified Lead,5/7/2025
+435,Sianna Gligorijevic,Cold Calling,Marketing Qalified Lead,8/29/2024
+436,Iolande Oliva,LinkedIn,New,7/15/2024
+437,Natty Siddons,Cold Calling,New,4/29/2025
+438,Elane Radclyffe,LinkedIn,New,11/19/2025
+439,Sophia Matous,LinkedIn,Marketing Qalified Lead,8/18/2024
+440,Adrianne Dine-Hart,Cold Calling,Marketing Qalified Lead,9/4/2024
+441,Conchita Carbett,Cold Calling,New,4/23/2025
+442,Colby Feitosa,LinkedIn,Sales Qualified Lead,11/11/2025
+443,Dedie Bernhart,LinkedIn,Marketing Qalified Lead,10/28/2024
+444,Reuben Ginty,Cold Calling,In Process,12/31/2025
+445,Dyna Rickcord,Cold Calling,Marketing Qalified Lead,9/2/2025
+446,Helena Bitten,Cold Calling,Marketing Qalified Lead,6/22/2025
+447,Dennie Cogman,Cold Calling,Sales Qualified Lead,7/16/2024
+448,Corissa Barwick,Cold Calling,Marketing Qalified Lead,4/29/2025
+449,Hermine Bridywater,LinkedIn,Marketing Qalified Lead,2/12/2025
+450,Fairleigh Balch,Cold Calling,New,4/7/2025
+451,Odelinda Laxen,LinkedIn,New,8/15/2025
+452,Thatch Roseblade,Cold Calling,Marketing Qalified Lead,1/8/2025
+453,Araldo Muckley,Cold Calling,New,8/22/2025
+454,Ottilie Tomich,Cold Calling,In Process,7/22/2024
+455,Gavin Abramchik,Cold Calling,Marketing Qalified Lead,10/28/2024
+456,Franny Rosenau,Cold Calling,New,9/15/2024
+457,Risa Mann,Cold Calling,In Process,11/30/2025
+458,Melony Held,Cold Calling,Marketing Qalified Lead,12/9/2024
+459,Ralf Sobczak,Cold Calling,Marketing Qalified Lead,1/24/2025
+460,Roby Howe,Cold Calling,Marketing Qalified Lead,1/2/2025
+461,Lonee Trowel,Cold Calling,In Process,9/30/2024
+462,Chrisse Cream,Cold Calling,In Process,1/20/2025
+463,Natal Foote,LinkedIn,Sales Qualified Lead,6/7/2025
+464,Marcello Bride,Cold Calling,Marketing Qalified Lead,10/1/2025
+465,Auguste Elleray,Cold Calling,Open Deal,10/18/2025
+466,Briney Ianno,Cold Calling,Open Deal,1/18/2025
+467,Kelley Jamison,Cold Calling,In Process,1/11/2025
+468,Peta Gratton,Cold Calling,Sales Qualified Lead,3/9/2025
+469,Des Kubasiewicz,LinkedIn,In Process,12/3/2025
+470,Pip Arunowicz,LinkedIn,New,5/22/2025
+471,Rhona Warren,Cold Calling,Sales Qualified Lead,4/24/2025
+472,Lamont Gorick,LinkedIn,New,1/17/2025
+473,Kirbie Praten,LinkedIn,New,1/10/2026
+474,Brennan Keppy,Cold Calling,New,8/14/2024
+475,Ashby Counter,LinkedIn,New,9/10/2025
+476,Levey Curnock,Cold Calling,Sales Qualified Lead,11/30/2024
+477,Johanna Scheffler,Cold Calling,New,8/21/2024
+478,Elna Capozzi,Cold Calling,New,12/14/2024
+479,Vivienne Mattes,LinkedIn,Marketing Qalified Lead,9/12/2025
+480,Mychal Halewood,LinkedIn,Marketing Qalified Lead,1/24/2025
+481,Chic Delahunt,Cold Calling,Marketing Qalified Lead,10/19/2024
+482,Leoline Pownall,LinkedIn,New,9/24/2025
+483,Hanny Shillito,LinkedIn,New,12/13/2025
+484,Yolanda Sarver,Cold Calling,New,10/31/2025
+485,Brandtr Durrance,LinkedIn,Marketing Qalified Lead,6/14/2025
+486,Hercule Dowman,Cold Calling,Marketing Qalified Lead,9/7/2024
+487,Sena Stogill,LinkedIn,Marketing Qalified Lead,2/8/2025
+488,Teresita Soulsby,Cold Calling,Marketing Qalified Lead,2/19/2025
+489,Terrel Polley,Cold Calling,Marketing Qalified Lead,6/3/2025
+490,Franny Walding,Cold Calling,Marketing Qalified Lead,10/27/2024
+491,Germain Domengue,Cold Calling,Open Deal,12/16/2025
+492,Olivie Matfin,Cold Calling,Marketing Qalified Lead,1/16/2026
+493,Lance Dran,Cold Calling,Marketing Qalified Lead,10/23/2024
+494,Harlene Delyth,LinkedIn,New,8/24/2024
+495,Willem Huxley,Cold Calling,Sales Qualified Lead,12/20/2024
+496,Barby Chesser,LinkedIn,In Process,11/28/2024
+497,Corilla MacGorman,LinkedIn,Marketing Qalified Lead,5/28/2025
+498,Abrahan Grumell,Cold Calling,Sales Qualified Lead,7/26/2025
+499,Aldous Kadd,LinkedIn,New,7/4/2024
+500,Emmery Hattersley,LinkedIn,Marketing Qalified Lead,12/14/2025
+501,Hilde McNeil,LinkedIn,Marketing Qalified Lead,10/22/2024
+502,Creight Whenman,Cold Calling,Marketing Qalified Lead,9/4/2025
+503,Chance Chatenet,LinkedIn,Marketing Qalified Lead,1/10/2025
+504,Alicia Castilljo,LinkedIn,Marketing Qalified Lead,1/5/2025
+505,Donella Hurt,Cold Calling,Marketing Qalified Lead,7/2/2025
+506,Sella Acres,Cold Calling,Marketing Qalified Lead,2/8/2025
+507,Aubrey Brundle,Cold Calling,New,1/15/2025
+508,Georgie Dary,LinkedIn,Marketing Qalified Lead,7/31/2024
+509,Lin Reinbech,LinkedIn,New,2/18/2025
+510,Borg Serginson,Cold Calling,Marketing Qalified Lead,5/1/2025
+511,Keenan Merrin,LinkedIn,Marketing Qalified Lead,7/31/2024
+512,Kerwin Wylie,LinkedIn,New,12/4/2024
+513,Elna Gillino,Cold Calling,New,12/15/2025
+514,Luther Blasli,Cold Calling,New,3/29/2025
+515,Tabbie Wiskar,Cold Calling,New,6/4/2025
+516,Christoph Suart,LinkedIn,New,12/2/2024
+517,Brandtr Whiskin,LinkedIn,New,7/4/2024
+518,Melina Epsley,Cold Calling,In Process,12/2/2024
+519,Therese Boteman,Cold Calling,New,9/13/2024
+520,Tadio Swatradge,Cold Calling,Marketing Qalified Lead,7/13/2024
+521,Fairlie Dewey,LinkedIn,New,7/29/2025
+522,Bird Pott,Cold Calling,Marketing Qalified Lead,11/2/2025
+523,Emilia Gadney,Cold Calling,New,8/1/2024
+524,Aleece Armour,Cold Calling,Sales Qualified Lead,8/5/2024
+525,Nelly Roches,Cold Calling,In Process,1/11/2025
+526,Alexander Suthren,Cold Calling,New,12/4/2025
+527,Caroljean Sreenan,Cold Calling,New,3/5/2025
+528,Michele McGlaughn,Cold Calling,New,9/22/2025
+529,Bel Beagin,LinkedIn,Marketing Qalified Lead,1/15/2025
+530,Tanny Penton,Cold Calling,In Process,9/28/2024
+531,Dilly Belson,LinkedIn,Sales Qualified Lead,8/18/2025
+532,Egbert Batiste,LinkedIn,New,8/21/2024
+533,Anabella Trembey,LinkedIn,Marketing Qalified Lead,1/3/2025
+534,Dina Screase,LinkedIn,Marketing Qalified Lead,10/3/2025
+535,Con Guard,LinkedIn,New,10/21/2024
+536,Marlee Eliassen,Cold Calling,In Process,6/4/2025
+537,Aliza Robard,Cold Calling,In Process,9/10/2025
+538,Lily Kleinmintz,LinkedIn,Sales Qualified Lead,1/25/2025
+539,Joela Poff,LinkedIn,New,8/11/2025
+540,Samaria Giorgiutti,Cold Calling,Sales Qualified Lead,6/14/2025
+541,Lodovico Girodier,LinkedIn,New,5/1/2025
+542,Con Hickenbottom,Cold Calling,New,10/12/2024
+543,Glory Skamal,LinkedIn,New,12/24/2024
+544,Yance Blueman,Cold Calling,New,4/28/2025
+545,Brody Borlease,Cold Calling,Marketing Qalified Lead,8/24/2024
+546,Arlinda Chung,LinkedIn,In Process,9/21/2024
+547,Gardie D'Hooge,LinkedIn,New,3/24/2025
+548,Charita Smallthwaite,Cold Calling,Sales Qualified Lead,10/21/2024
+549,Drusilla Adamiec,Cold Calling,Sales Qualified Lead,1/17/2025
+550,La verne Jenkinson,LinkedIn,Open Deal,11/14/2024
+551,Elka Filan,Cold Calling,Marketing Qalified Lead,7/10/2024
+552,Kimberlee Bowick,Cold Calling,New,12/20/2024
+553,Loren Lakenton,Cold Calling,Sales Qualified Lead,2/17/2025
+554,Field Askin,LinkedIn,New,11/5/2024
+555,Horacio Middlewick,LinkedIn,New,8/2/2024
+556,Lurline Buddington,LinkedIn,In Process,8/6/2024
+557,Cesaro Lisle,LinkedIn,Sales Qualified Lead,7/2/2024
+558,Laurence Gudgion,Cold Calling,Open Deal,8/20/2024
+559,Dianna Vella,Cold Calling,Marketing Qalified Lead,4/18/2025
+560,Bank Toppas,LinkedIn,Sales Qualified Lead,1/31/2025
+561,Brandtr Allabarton,Cold Calling,Marketing Qalified Lead,7/2/2024
+562,Virginie Buss,LinkedIn,New,12/13/2024
+563,Erda Nolleth,Cold Calling,In Process,7/16/2025
+564,Ky Northill,LinkedIn,Marketing Qalified Lead,10/23/2024
+565,Adamo Whitty,LinkedIn,In Process,7/14/2024
+566,Sumner Longland,Cold Calling,New,7/5/2024
+567,Patrizius Goodfellow,LinkedIn,In Process,9/19/2024
+568,Hansiain Brose,LinkedIn,Marketing Qalified Lead,12/14/2025
+569,Corabelle Bowles,Cold Calling,Marketing Qalified Lead,10/11/2024
+570,Aile Foddy,Cold Calling,New,2/9/2025
+571,Donal Jellicorse,LinkedIn,Marketing Qalified Lead,12/27/2024
+572,Sanford Shackleford,Cold Calling,Sales Qualified Lead,12/3/2024
+573,Wiatt Calver,Cold Calling,Sales Qualified Lead,1/30/2025
+574,Christi Kondratenya,Cold Calling,New,10/16/2024
+575,Matthieu Rocks,Cold Calling,New,12/8/2024
+576,Huberto Loude,LinkedIn,In Process,6/28/2025
+577,Cornela Currall,Cold Calling,In Process,11/4/2025
+578,Ceciley Tremble,Cold Calling,New,12/24/2024
+579,Adler McNirlan,Cold Calling,New,7/12/2024
+580,Nada Traill,LinkedIn,In Process,1/14/2026
+581,Arny Bonson,Cold Calling,New,5/11/2025
+582,Hans Pauletti,LinkedIn,New,11/14/2024
+583,Felipe Manicomb,LinkedIn,Open Deal,8/23/2025
+584,Griffith Jump,Cold Calling,New,11/25/2024
+585,Calli Simmill,Cold Calling,New,7/15/2025
+586,Corie Ginnane,LinkedIn,New,1/3/2025
+587,Bradney Ghio,LinkedIn,Sales Qualified Lead,7/9/2025
+588,Noella Langsdon,Cold Calling,Marketing Qalified Lead,6/7/2025
+589,Melba Madigan,Cold Calling,Marketing Qalified Lead,11/18/2024
+590,Kiersten Silverston,Cold Calling,New,7/2/2024
+591,Wenda Halliwell,LinkedIn,Marketing Qalified Lead,9/15/2024
+592,Vivyanne Belchamber,LinkedIn,Marketing Qalified Lead,12/1/2025
+593,Mickey Vedekhov,LinkedIn,New,1/7/2026
+594,Ario Chomicz,Cold Calling,Marketing Qalified Lead,12/21/2024
+595,Marco Jeffryes,Cold Calling,Marketing Qalified Lead,6/23/2025
+596,Erda Blissett,Cold Calling,New,9/1/2024
+597,Meggie Leivers,Cold Calling,New,6/28/2025
+598,Izak Rochell,Cold Calling,Marketing Qalified Lead,5/19/2025
+599,Lanita Bastiman,LinkedIn,Sales Qualified Lead,10/29/2025
+600,Pauletta Cellone,LinkedIn,New,12/3/2025
+601,Shelbi Ilsley,LinkedIn,Sales Qualified Lead,11/26/2025
+602,Pieter Rewan,LinkedIn,Marketing Qalified Lead,11/4/2025
+603,Maurizio Hadland,Cold Calling,Sales Qualified Lead,7/28/2025
+604,Franzen Goeff,Cold Calling,New,12/12/2024
+605,Riccardo Ryland,Cold Calling,Sales Qualified Lead,12/17/2024
+606,Terza Champneys,LinkedIn,New,9/30/2024
+607,Michael Beeken,Cold Calling,New,12/25/2024
+608,Danni Jancic,LinkedIn,Marketing Qalified Lead,8/23/2024
+609,Elden Breyt,LinkedIn,Open Deal,5/25/2025
+610,Bethany Trice,LinkedIn,New,7/2/2024
+611,Elsinore Goodered,LinkedIn,New,2/2/2025
+612,Wally De Zuani,LinkedIn,New,7/28/2025
+613,Zarla Farmar,LinkedIn,In Process,11/16/2024
+614,Terence Clemont,LinkedIn,Marketing Qalified Lead,11/16/2025
+615,Merrili Drakeley,Cold Calling,New,5/6/2025
+616,Malva Relfe,Cold Calling,New,6/23/2025
+617,Kelly Oubridge,LinkedIn,Marketing Qalified Lead,6/21/2025
+618,Glynis Wisbey,Cold Calling,Marketing Qalified Lead,10/12/2024
+619,Jarvis Timewell,Cold Calling,New,7/23/2024
+620,Halli Goodship,LinkedIn,Marketing Qalified Lead,11/29/2024
+621,Neils McReynold,LinkedIn,Sales Qualified Lead,10/31/2025
+622,Enrika Hatt,Cold Calling,New,7/1/2025
+623,Becky Elwin,LinkedIn,Marketing Qalified Lead,6/15/2025
+624,Mirella Kennelly,LinkedIn,Marketing Qalified Lead,10/5/2024
+625,Tabbatha Shickle,Cold Calling,New,11/25/2024
+626,Heida O'Lagen,Cold Calling,Marketing Qalified Lead,3/21/2025
+627,Annemarie Thomazet,LinkedIn,In Process,10/30/2024
+628,Kahlil Labrenz,Cold Calling,Sales Qualified Lead,5/12/2025
+629,Ethelind Dukelow,LinkedIn,Sales Qualified Lead,11/4/2025
+630,Skipper Murr,Cold Calling,Marketing Qalified Lead,1/15/2026
+631,Yelena Challis,Cold Calling,Sales Qualified Lead,8/23/2025
+632,Clifford Digwood,LinkedIn,Marketing Qalified Lead,7/9/2025
+633,Jared Yanov,Cold Calling,New,9/8/2024
+634,Agace Dean,LinkedIn,In Process,8/10/2025
+635,Innis Allard,LinkedIn,New,11/3/2025
+636,Jacobo Crockett,Cold Calling,New,4/5/2025
+637,Daryl Wehden,LinkedIn,Marketing Qalified Lead,3/27/2025
+638,Theodoric Himsworth,Cold Calling,Marketing Qalified Lead,12/2/2024
+639,Arte Roman,LinkedIn,New,8/23/2025
+640,Rickie Fossick,Cold Calling,New,9/1/2024
+641,Cynthy Chorley,LinkedIn,New,12/30/2025
+642,Marta Vamplew,LinkedIn,New,11/26/2024
+643,Allyson Sprull,LinkedIn,New,6/11/2025
+644,Kaila Dougal,LinkedIn,In Process,8/10/2024
+645,Arnaldo Backshall,Cold Calling,New,4/17/2025
+646,Avictor Succamore,Cold Calling,In Process,6/22/2025
+647,Clive Kuzma,LinkedIn,Sales Qualified Lead,3/23/2025
+648,Wenona Addicote,LinkedIn,Sales Qualified Lead,7/3/2024
+649,Kaitlynn Dinse,Cold Calling,In Process,7/14/2025
+650,Delainey Triggel,LinkedIn,Open Deal,6/30/2025
+651,Hobart Rothchild,LinkedIn,New,9/10/2025
+652,Devin Newton,Cold Calling,New,8/11/2025
+653,Ranna Fannin,LinkedIn,New,11/28/2024
+654,Idell Brinkler,LinkedIn,Sales Qualified Lead,11/17/2025
+655,Fredric Songer,LinkedIn,Marketing Qalified Lead,7/10/2024
+656,Melodee Mallinder,Cold Calling,New,12/29/2024
+657,Carmen Buckett,Cold Calling,Marketing Qalified Lead,9/22/2025
+658,Gabrielle Fitzroy,LinkedIn,New,11/17/2024
+659,Malynda Duggen,Cold Calling,Marketing Qalified Lead,7/25/2024
+660,Rebbecca O'Currigan,Cold Calling,New,1/30/2025
+661,Ben Valenta,LinkedIn,Marketing Qalified Lead,1/28/2025
+662,Lucine Baelde,Cold Calling,New,7/27/2025
+663,Almeda Osband,LinkedIn,Marketing Qalified Lead,4/18/2025
+664,Meta Brenneke,LinkedIn,In Process,2/2/2025
+665,Aloise Horche,LinkedIn,New,7/12/2024
+666,Carver Bagnell,LinkedIn,New,11/12/2024
+667,Jere Mucci,Cold Calling,Sales Qualified Lead,1/5/2025
+668,Tanya Alvares,Cold Calling,New,10/16/2024
+669,Nico Golsby,Cold Calling,New,9/26/2024
+670,Jaquenette Lohden,Cold Calling,Marketing Qalified Lead,7/28/2025
+671,Fionnula Defty,LinkedIn,New,8/24/2025
+672,Goldarina Fawlks,LinkedIn,Marketing Qalified Lead,11/26/2025
+673,Jaimie Corzon,Cold Calling,Marketing Qalified Lead,7/9/2024
+674,Kanya Heigold,LinkedIn,Sales Qualified Lead,5/5/2025
+675,Arron Thorsen,Cold Calling,New,2/20/2025
+676,Lorilyn Kmieciak,Cold Calling,In Process,12/11/2024
+677,Stevena Vannacci,Cold Calling,New,1/26/2025
+678,Karen Dowden,LinkedIn,Marketing Qalified Lead,8/22/2025
+679,Jessalin Orteaux,Cold Calling,New,11/5/2024
+680,Cyb Mc Gaughey,Cold Calling,Marketing Qalified Lead,10/31/2025
+681,Husein Giacomasso,LinkedIn,New,11/12/2025
+682,Maurene Lots,Cold Calling,New,11/10/2025
+683,Husein Baistow,Cold Calling,Marketing Qalified Lead,10/3/2025
+684,Court Reynault,LinkedIn,New,12/13/2025
+685,Archy Blazevic,Cold Calling,Sales Qualified Lead,9/14/2024
+686,Brand Donat,LinkedIn,New,9/6/2024
+687,Burg Grayne,Cold Calling,Marketing Qalified Lead,11/3/2025
+688,Birk Mohring,LinkedIn,New,9/27/2025
+689,Bo Iban,LinkedIn,New,9/12/2025
+690,Elane Heggs,Cold Calling,Marketing Qalified Lead,1/23/2025
+691,Theodoric Basden,LinkedIn,Sales Qualified Lead,8/5/2025
+692,Angel Handling,LinkedIn,Sales Qualified Lead,1/20/2025
+693,Halsy Norcutt,LinkedIn,Sales Qualified Lead,12/17/2024
+694,Ragnar Pasfield,Cold Calling,Sales Qualified Lead,11/29/2025
+695,Willa Vannozzii,LinkedIn,New,12/25/2025
+696,Rebecca Berrigan,Cold Calling,New,7/6/2025
+697,Uta Dybell,LinkedIn,Marketing Qalified Lead,4/12/2025
+698,Una Craigs,LinkedIn,New,3/17/2025
+699,Uri Pheby,LinkedIn,New,6/6/2025
+700,Cordie Doddemeade,Cold Calling,In Process,8/30/2024
+701,Skye Keyme,Cold Calling,New,9/30/2025
+702,Kinna Dunkerley,LinkedIn,Sales Qualified Lead,10/29/2024
+703,Christy Lambirth,LinkedIn,Marketing Qalified Lead,1/10/2026
+704,Germana Maxwale,LinkedIn,Marketing Qalified Lead,4/12/2025
+705,Gunther Bollum,LinkedIn,New,6/14/2025
+706,Wang Rattenberie,Cold Calling,Marketing Qalified Lead,11/15/2024
+707,Auria Vere,Cold Calling,Sales Qualified Lead,7/24/2025
+708,Matti Sinott,LinkedIn,Marketing Qalified Lead,11/29/2025
+709,Cecile Gertray,LinkedIn,Sales Qualified Lead,10/7/2025
+710,Delores Axelbee,LinkedIn,New,2/3/2025
+711,Kristin Robus,LinkedIn,Marketing Qalified Lead,7/4/2024
+712,Clarette Pretty,Cold Calling,Open Deal,3/26/2025
+713,Nat Vieyra,Cold Calling,In Process,3/9/2025
+714,Eryn Eagger,LinkedIn,New,5/23/2025
+715,Chic Flavelle,LinkedIn,Marketing Qalified Lead,12/21/2025
+716,Sheffie Hobell,Cold Calling,Marketing Qalified Lead,7/19/2025
+717,Theodor Bwy,LinkedIn,New,9/25/2024
+718,Otho Lavielle,LinkedIn,Sales Qualified Lead,3/17/2025
+719,Barry Pencott,LinkedIn,New,7/20/2024
+720,Jamey Jayme,LinkedIn,New,5/26/2025
+721,Kalinda Robens,LinkedIn,Open Deal,12/10/2025
+722,Mureil Gooda,Cold Calling,Sales Qualified Lead,1/4/2025
+723,Cristian Monteith,LinkedIn,New,9/22/2025
+724,Saxe Jackalin,LinkedIn,Marketing Qalified Lead,12/26/2024
+725,Junia Matzl,LinkedIn,New,6/10/2025
+726,Barthel Lippo,LinkedIn,Marketing Qalified Lead,10/11/2025
+727,Zeb Fitzgerald,LinkedIn,Marketing Qalified Lead,11/17/2025
+728,Arlena Le Fevre,LinkedIn,Open Deal,11/1/2024
+729,Adele McGuggy,Cold Calling,New,6/26/2025
+730,Jeralee Rehorek,LinkedIn,Sales Qualified Lead,8/24/2024
+731,Rees Greensite,LinkedIn,New,7/3/2025
+732,Woodie Pozzi,LinkedIn,Marketing Qalified Lead,11/7/2025
+733,Pepi Sterrick,Cold Calling,Sales Qualified Lead,9/26/2024
+734,Dina Pien,Cold Calling,New,5/10/2025
+735,Chloris Baike,LinkedIn,New,8/25/2025
+736,Dare McGenn,Cold Calling,In Process,9/15/2024
+737,Blakeley Westcott,LinkedIn,Open Deal,6/18/2025
+738,Miles Winsor,LinkedIn,In Process,3/27/2025
+739,Christabella Bartozzi,LinkedIn,Sales Qualified Lead,2/26/2025
+740,Minne Fortman,Cold Calling,New,5/2/2025
+741,Deana Statter,LinkedIn,New,6/18/2025
+742,Cesya Charlon,LinkedIn,New,6/20/2025
+743,Adriena Nordass,LinkedIn,Marketing Qalified Lead,4/28/2025
+744,Winslow Sulland,LinkedIn,New,12/15/2024
+745,Petra Mongain,LinkedIn,Open Deal,9/10/2024
+746,Curtice Dedden,LinkedIn,New,9/19/2024
+747,Kalina Iiannoni,Cold Calling,Marketing Qalified Lead,5/6/2025
+748,Meredithe Hutchison,LinkedIn,New,4/16/2025
+749,Lauree McConnel,LinkedIn,Open Deal,4/27/2025
+750,Dunn Cellier,LinkedIn,New,7/13/2025
+751,Eal Trunchion,Cold Calling,New,7/3/2025
+752,Iago Bullen,Cold Calling,Open Deal,1/10/2025
+753,Jammie Drohane,Cold Calling,Sales Qualified Lead,7/11/2025
+754,Darsie Bambrough,Cold Calling,Sales Qualified Lead,12/15/2024
+755,Zachariah Rysom,Cold Calling,Marketing Qalified Lead,8/1/2024
+756,Erny Bothe,Cold Calling,Sales Qualified Lead,4/25/2025
+757,Jareb Eliyahu,LinkedIn,Marketing Qalified Lead,11/23/2025
+758,Don Bradtke,Cold Calling,In Process,6/26/2025
+759,Lotta Ruckman,Cold Calling,Sales Qualified Lead,5/7/2025
+760,Palm Gregorowicz,LinkedIn,In Process,10/17/2025
+761,Cherianne Hattersley,Cold Calling,Sales Qualified Lead,6/15/2025
+762,Lorena Orme,Cold Calling,Open Deal,7/10/2024
+763,Arvin Stobbe,Cold Calling,Marketing Qalified Lead,3/20/2025
+764,Lauryn Duggen,LinkedIn,Marketing Qalified Lead,1/4/2025
+765,Clemente Spinley,LinkedIn,New,10/24/2025
+766,Beret McKinnell,Cold Calling,Sales Qualified Lead,4/25/2025
+767,Huntley Charrier,LinkedIn,New,10/6/2024
+768,Misha Valentino,Cold Calling,New,7/1/2025
+769,Birk Atwill,LinkedIn,Sales Qualified Lead,11/19/2025
+770,Merl Lanston,LinkedIn,Sales Qualified Lead,8/23/2024
+771,Wally Switzer,Cold Calling,New,9/12/2024
+772,Jeniffer Aburrow,LinkedIn,Marketing Qalified Lead,7/11/2024
+773,Lil Butts,LinkedIn,New,7/5/2024
+774,Torrin Garvagh,LinkedIn,Marketing Qalified Lead,9/7/2024
+775,Waverly Blondelle,LinkedIn,Marketing Qalified Lead,9/10/2025
+776,Elinor Hext,Cold Calling,New,1/21/2025
+777,Dewie Scamal,LinkedIn,New,10/23/2024
+778,Harriett Brahmer,Cold Calling,Marketing Qalified Lead,10/11/2025
+779,Cletis Sweetmore,LinkedIn,Open Deal,1/17/2026
+780,Mellie Collough,LinkedIn,Marketing Qalified Lead,1/1/2026
+781,Frederick Govier,Cold Calling,New,9/8/2025
+782,Cherry Sweetmore,Cold Calling,Sales Qualified Lead,8/27/2024
+783,Howey Ovey,Cold Calling,Marketing Qalified Lead,7/6/2024
+784,Charley Barwack,LinkedIn,New,7/2/2025
+785,Dorian Cheyenne,LinkedIn,New,10/19/2024
+786,Wood McCuish,Cold Calling,In Process,11/6/2024
+787,Virge Kimbrough,LinkedIn,In Process,10/9/2024
+788,Elsie Gentry,LinkedIn,Open Deal,4/16/2025
+789,Janella Denk,LinkedIn,Marketing Qalified Lead,10/9/2024
+790,Nessie Ounsworth,LinkedIn,New,8/27/2024
+791,Joeann Orteu,Cold Calling,New,5/30/2025
+792,Rois Ruse,Cold Calling,New,12/13/2024
+793,Cristina Wicklin,LinkedIn,New,5/3/2025
+794,Tim Giacomucci,Cold Calling,New,4/11/2025
+795,Erasmus Haskayne,LinkedIn,New,8/20/2024
+796,Starlin Rollin,LinkedIn,In Process,5/29/2025
+797,Darya Hartnell,LinkedIn,Marketing Qalified Lead,1/22/2025
+798,Josey Tinton,Cold Calling,New,3/18/2025
+799,Krystalle Andrzejowski,Cold Calling,New,7/19/2024
+800,Collen Gilbody,Cold Calling,New,11/5/2025
+801,Gwendolin Dare,LinkedIn,New,5/14/2025
+802,Jens Zottoli,LinkedIn,Marketing Qalified Lead,7/15/2024
+803,Maire Navan,LinkedIn,Marketing Qalified Lead,8/16/2025
+804,Veriee Jakubiak,LinkedIn,New,1/1/2026
+805,Olva Espin,Cold Calling,In Process,8/4/2024
+806,Darleen Garey,Cold Calling,Open Deal,1/12/2026
+807,Davita Bartley,LinkedIn,New,6/25/2025
+808,Clarence Annesley,Cold Calling,Open Deal,10/30/2024
+809,Simonette Logsdail,LinkedIn,Open Deal,3/12/2025
+810,Flossie Lergan,Cold Calling,New,7/6/2025
+811,Jeni Conkling,Cold Calling,Sales Qualified Lead,8/17/2024
+812,Miller Soan,LinkedIn,Marketing Qalified Lead,9/2/2024
+813,Maximilian Yukhnevich,Cold Calling,Sales Qualified Lead,10/7/2025
+814,Rebecca Basini-Gazzi,Cold Calling,New,2/6/2025
+815,Clemmy Fretwell,LinkedIn,Sales Qualified Lead,9/2/2025
+816,Vanya Rew,Cold Calling,New,11/19/2025
+817,Heather Bedo,LinkedIn,New,10/28/2024
+818,Norma Warlock,LinkedIn,New,12/23/2025
+819,Mose Tellenbroker,Cold Calling,Sales Qualified Lead,5/10/2025
+820,Zachery Sawney,Cold Calling,Sales Qualified Lead,9/17/2024
+821,Innis Winkworth,Cold Calling,Sales Qualified Lead,4/11/2025
+822,Melicent Maha,LinkedIn,Marketing Qalified Lead,9/16/2024
+823,Devinne Lode,LinkedIn,New,8/26/2024
+824,Golda Castan,Cold Calling,Marketing Qalified Lead,2/20/2025
+825,Ciro Burniston,LinkedIn,Open Deal,5/24/2025
+826,Berne Berthel,Cold Calling,New,10/26/2025
+827,Blake Dugall,Cold Calling,New,2/12/2025
+828,Carmella Burchess,LinkedIn,New,10/27/2024
+829,Evonne McGettigan,Cold Calling,In Process,1/15/2025
+830,Laughton Liell,Cold Calling,Marketing Qalified Lead,2/25/2025
+831,Cassie Milmo,LinkedIn,Sales Qualified Lead,7/10/2025
+832,Karita Biggar,LinkedIn,Sales Qualified Lead,4/27/2025
+833,Jan Atterbury,Cold Calling,Sales Qualified Lead,7/9/2024
+834,Marla Smallwood,Cold Calling,New,7/22/2024
+835,Sheilah Quennell,Cold Calling,Marketing Qalified Lead,10/13/2024
+836,Tabbie Crutchley,Cold Calling,New,10/3/2025
+837,Clemmie Elwin,LinkedIn,Sales Qualified Lead,10/23/2025
+838,Flory Riccard,Cold Calling,Marketing Qalified Lead,1/17/2025
+839,Ashlen Kollach,LinkedIn,Open Deal,7/16/2025
+840,Buiron Crepel,Cold Calling,Marketing Qalified Lead,3/13/2025
+841,Mart Huntington,LinkedIn,New,7/17/2024
+842,Sylas Letertre,Cold Calling,New,5/2/2025
+843,Raddy Yonge,LinkedIn,Sales Qualified Lead,11/3/2024
+844,Lamont Simonel,Cold Calling,Sales Qualified Lead,1/4/2025
+845,Saundra Crosetti,Cold Calling,In Process,8/30/2025
+846,Gweneth Bedding,Cold Calling,Marketing Qalified Lead,1/11/2025
+847,Parsifal Sherrett,LinkedIn,Marketing Qalified Lead,5/11/2025
+848,Melony Huet,Cold Calling,Marketing Qalified Lead,8/13/2025
+849,Tremayne Hyne,LinkedIn,In Process,8/13/2024
+850,Melinde Tellenbroker,Cold Calling,Marketing Qalified Lead,7/23/2025
+851,Andrey McGinney,Cold Calling,Marketing Qalified Lead,11/9/2025
+852,Wilone Eddleston,Cold Calling,New,8/15/2024
+853,Toby Vockins,LinkedIn,New,12/30/2025
+854,Taddeusz Bilt,Cold Calling,New,12/31/2024
+855,Phillip Rauprich,Cold Calling,Marketing Qalified Lead,12/19/2025
+856,Peter Schoular,LinkedIn,In Process,10/18/2024
+857,Efren Beasant,LinkedIn,Marketing Qalified Lead,1/24/2025
+858,Dud Abraham,Cold Calling,New,8/16/2025
+859,Alexandr Stainson,LinkedIn,New,5/12/2025
+860,Pen Gerrietz,LinkedIn,New,5/9/2025
+861,Ashla Moynihan,LinkedIn,Marketing Qalified Lead,4/7/2025
+862,De witt Abbess,Cold Calling,New,12/31/2024
+863,Federico Sprigging,LinkedIn,New,6/26/2025
+864,Bea Ravenhills,LinkedIn,New,11/13/2024
+865,Tyler Wilding,Cold Calling,New,3/17/2025
+866,Roxy Mercik,LinkedIn,In Process,8/11/2025
+867,Sarine Quayle,LinkedIn,New,9/16/2024
+868,Audra Rosenstein,Cold Calling,New,7/26/2025
+869,Saidee O'Flannery,Cold Calling,New,11/8/2024
+870,Genevieve Wharlton,Cold Calling,Sales Qualified Lead,8/5/2024
+871,Zilvia Glanester,LinkedIn,Marketing Qalified Lead,3/16/2025
+872,Ryley Fanton,Cold Calling,Marketing Qalified Lead,12/20/2024
+873,Marnia Keuntje,Cold Calling,In Process,1/19/2025
+874,Dominique Gregori,LinkedIn,In Process,10/23/2024
+875,Viv Wear,LinkedIn,Sales Qualified Lead,10/17/2025
+876,Chlo Brellin,LinkedIn,New,2/15/2025
+877,Galvan Bainbridge,Cold Calling,Marketing Qalified Lead,1/27/2025
+878,Chan Kenningley,Cold Calling,New,1/13/2026
+879,Emmey Lansly,Cold Calling,New,6/27/2025
+880,Inglis Concannon,LinkedIn,New,3/1/2025
+881,Adella Hayller,Cold Calling,Marketing Qalified Lead,11/5/2025
+882,Dael Weare,LinkedIn,New,11/6/2024
+883,Erin Gillford,Cold Calling,New,10/15/2024
+884,Kristine Calvert,Cold Calling,In Process,9/29/2024
+885,Bernetta Halford,Cold Calling,Sales Qualified Lead,10/14/2025
+886,Zelig Bwye,LinkedIn,New,7/11/2025
+887,Cherianne McAndrew,Cold Calling,Marketing Qalified Lead,12/19/2024
+888,Rodney Upjohn,Cold Calling,Marketing Qalified Lead,5/17/2025
+889,Phillip Pogosian,LinkedIn,New,10/9/2024
+890,Willy Sphinxe,LinkedIn,Marketing Qalified Lead,5/21/2025
+891,Teriann Fieldhouse,LinkedIn,In Process,11/1/2024
+892,Barth Bolwell,Cold Calling,New,8/10/2025
+893,Kate Thickett,Cold Calling,New,12/30/2025
+894,Elna Kirsz,Cold Calling,In Process,11/4/2024
+895,Esteban O'Connolly,LinkedIn,New,11/26/2024
+896,Crista Gathwaite,Cold Calling,Marketing Qalified Lead,3/29/2025
+897,Gallard Silvermann,LinkedIn,Sales Qualified Lead,6/27/2025
+898,Yvonne Dungey,Cold Calling,Open Deal,6/15/2025
+899,Griffie Verey,LinkedIn,Sales Qualified Lead,7/28/2024
+900,Davey Emmot,LinkedIn,Sales Qualified Lead,5/3/2025
+901,Babbette Dudenie,LinkedIn,Sales Qualified Lead,12/19/2024
+902,Debbi Davis,Cold Calling,Sales Qualified Lead,12/15/2024
+903,Jean Karys,Cold Calling,New,11/16/2025
+904,Leif Blackden,LinkedIn,Marketing Qalified Lead,1/27/2025
+905,Elsworth Burchnall,LinkedIn,Marketing Qalified Lead,7/23/2024
+906,Forester Gatheridge,LinkedIn,Sales Qualified Lead,8/16/2024
+907,Beverley Rodda,Cold Calling,Marketing Qalified Lead,2/17/2025
+908,Vallie McGeechan,LinkedIn,Marketing Qalified Lead,10/8/2024
+909,Tammara Durdan,LinkedIn,Marketing Qalified Lead,11/29/2024
+910,Elie Issatt,LinkedIn,Marketing Qalified Lead,8/14/2025
+911,Blinnie Perse,LinkedIn,New,9/6/2024
+912,Ewell Venart,LinkedIn,New,8/25/2024
+913,Efrem Nitti,LinkedIn,New,7/6/2024
+914,Lorilyn Chappel,LinkedIn,Marketing Qalified Lead,11/6/2025
+915,Ree McKillop,Cold Calling,New,2/7/2025
+916,Zeb Vidgen,LinkedIn,New,1/8/2026
+917,Siouxie Brittin,Cold Calling,Sales Qualified Lead,12/6/2024
+918,Pavia Fountaine,LinkedIn,Marketing Qalified Lead,8/20/2024
+919,Monty Spadelli,LinkedIn,Marketing Qalified Lead,7/9/2025
+920,Kristel Whorton,LinkedIn,Sales Qualified Lead,12/3/2024
+921,Carney Ponte,Cold Calling,New,6/18/2025
+922,Sadella Consterdine,Cold Calling,New,12/5/2025
+923,Levi Donnel,Cold Calling,Marketing Qalified Lead,1/12/2026
+924,Murry Toppas,Cold Calling,Sales Qualified Lead,5/2/2025
+925,Con Colquite,LinkedIn,Marketing Qalified Lead,9/1/2025
+926,Leela Mackie,Cold Calling,Open Deal,7/20/2024
+927,Witty Ollis,Cold Calling,Marketing Qalified Lead,2/10/2025
+928,Kalil Arnau,LinkedIn,New,12/31/2024
+929,Maxine Almond,Cold Calling,Marketing Qalified Lead,3/6/2025
+930,Keir Nelmes,LinkedIn,Marketing Qalified Lead,12/25/2024
+931,Vaughan Abrahim,LinkedIn,Marketing Qalified Lead,11/24/2024
+932,Bernelle St Pierre,LinkedIn,New,5/30/2025
+933,Brnaby O'Murtagh,LinkedIn,Open Deal,12/19/2025
+934,Stephen Liddington,Cold Calling,Marketing Qalified Lead,11/20/2024
+935,Sigrid Peggrem,LinkedIn,New,8/26/2025
+936,Joane Yeatman,Cold Calling,Sales Qualified Lead,6/16/2025
+937,Vickie Gillean,LinkedIn,Sales Qualified Lead,3/2/2025
+938,Sasha Spavins,LinkedIn,New,2/12/2025
+939,Antonin Dutch,LinkedIn,New,1/26/2025
+940,Glen Minshaw,Cold Calling,New,11/14/2024
+941,Brendon Kilgrove,LinkedIn,New,3/1/2025
+942,Buckie Paxton,LinkedIn,Marketing Qalified Lead,2/27/2025
+943,Cherie Stutely,Cold Calling,Marketing Qalified Lead,9/9/2025
+944,Teddie Mulmuray,LinkedIn,Marketing Qalified Lead,3/1/2025
+945,Elton Lauritzen,Cold Calling,New,4/19/2025
+946,Tory Wilson,LinkedIn,New,8/13/2024
+947,Hamlen Andriss,Cold Calling,New,8/29/2024
+948,Blisse Lingfoot,Cold Calling,New,5/22/2025
+949,Erasmus Fatscher,Cold Calling,Open Deal,11/29/2025
+950,Mychal Vedeniktov,Cold Calling,New,12/9/2024
+951,Britte Darey,Cold Calling,Marketing Qalified Lead,11/4/2025
+952,Franciskus Gajownik,Cold Calling,Marketing Qalified Lead,11/7/2025
+953,Eugene Froom,Cold Calling,In Process,1/9/2025
+954,Englebert Krinks,LinkedIn,New,12/24/2024
+955,Bertram Allden,LinkedIn,Marketing Qalified Lead,8/22/2025
+956,Ginger Emerton,LinkedIn,Marketing Qalified Lead,11/3/2024
+957,Martino Roderighi,LinkedIn,Marketing Qalified Lead,11/26/2024
+958,Maryrose Merman,Cold Calling,New,1/13/2025
+959,Ola Voelker,Cold Calling,New,8/18/2025
+960,Rowen Isworth,Cold Calling,Marketing Qalified Lead,10/26/2024
+961,Afton Matches,LinkedIn,New,1/4/2026
+962,Petra Brabham,Cold Calling,New,9/23/2024
+963,Alejandrina Bamell,LinkedIn,Marketing Qalified Lead,5/16/2025
+964,Stephannie Palatini,LinkedIn,New,6/3/2025
+965,Melisa Antunes,Cold Calling,Marketing Qalified Lead,2/1/2025
+966,Murielle Trowbridge,Cold Calling,New,12/22/2024
+967,Val Lorent,LinkedIn,Sales Qualified Lead,12/1/2025
+968,Maia Salle,Cold Calling,Sales Qualified Lead,8/8/2025
+969,Belle Brissenden,Cold Calling,New,12/30/2025
+970,Ira Faulds,LinkedIn,New,1/26/2025
+971,Fern Stickens,LinkedIn,Marketing Qalified Lead,11/11/2024
+972,Abigael Dearth,LinkedIn,Sales Qualified Lead,9/23/2024
+973,Minna Jumonet,Cold Calling,Marketing Qalified Lead,12/22/2024
+974,Marcela Mordon,Cold Calling,New,1/23/2025
+975,Brewster Golt,Cold Calling,New,11/22/2025
+976,Gertrudis Chasemore,LinkedIn,Marketing Qalified Lead,7/5/2024
+977,Geordie Agirre,LinkedIn,New,12/29/2024
+978,Maddie Hallum,Cold Calling,New,2/20/2025
+979,Shep Bohlin,Cold Calling,New,4/12/2025
+980,Eugenia Teare,LinkedIn,Sales Qualified Lead,9/23/2025
+981,Dolli Souster,Cold Calling,Marketing Qalified Lead,8/12/2025
+982,Caren Gleadhall,LinkedIn,In Process,4/1/2025
+983,North Bohike,LinkedIn,New,8/2/2024
+984,Chrissy Farley,LinkedIn,Marketing Qalified Lead,3/20/2025
+985,Maynard Paye,LinkedIn,Marketing Qalified Lead,7/18/2025
+986,Rodolfo Garr,LinkedIn,Sales Qualified Lead,7/25/2024
+987,Whitman Antao,LinkedIn,Marketing Qalified Lead,9/28/2024
+988,Leontine McCandie,LinkedIn,New,10/1/2024
+989,Ermin Mayston,LinkedIn,New,11/17/2024
+990,Osbourne Ayliffe,Cold Calling,Marketing Qalified Lead,11/23/2024
+991,Jennifer Plenty,Cold Calling,Sales Qualified Lead,11/21/2024
+992,Martina Hughs,Cold Calling,New,10/2/2024
+993,Aldis Gawthrop,LinkedIn,Marketing Qalified Lead,12/4/2024
+994,Germana Brient,Cold Calling,New,7/29/2025
+995,Michel Macknish,LinkedIn,New,4/3/2025
+996,Marvin McLaverty,Cold Calling,Open Deal,11/24/2025
+997,Brier Dunmore,LinkedIn,New,12/8/2025
+998,Terri-jo Spriggen,Cold Calling,Marketing Qalified Lead,9/29/2024
+999,Ralf Mangenot,LinkedIn,In Process,8/27/2024
+1000,Homerus Bedinn,Cold Calling,Marketing Qalified Lead,3/5/2025
