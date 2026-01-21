@@ -17,4 +17,8 @@ FROM ram_subscriptions
 WHERE country = 'USA' AND monthly_revenue > 50 AND churned = false
 ORDER BY monthly_revenue DESC;
 
---3. 
+--3. Account Age Analysis (Customer Longevity)
+-- Measures how long active customers stay with the company to evaluate loyalty and long-term retention.
+SELECT (CURRENT_DATE - signup_date) AS period_with_us, customer_id
+FROM ram_subscribtions
+WHERE churned=false
