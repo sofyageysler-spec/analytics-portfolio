@@ -19,3 +19,11 @@ FROM allstars_leads AS l, allstars_deals AS d
 WHERE l.lead_id=d.lead_id AND stage='closed'
 GROUP BY l.source
 ORDER BY total_revenue DESC;
+
+-- 3. Average Deal Size by BDR
+-- Identifies which BDRs are qualifying high-value opportunities vs. high-volume leads.
+SELECT l.bdr_name, ROUND(AVG(d.amount), 2) AS avg_deal_value, COUNT(d.deal_id) AS deals_won
+FROM allstars_leads AS l allstars_deals AS d
+WHERE  l.lead_id = d.lead_id AND d.stage = 'closed'
+GROUP BY l.bdr_name
+ORDER BY avg_deal_value DESC;
