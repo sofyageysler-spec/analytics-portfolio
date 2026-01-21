@@ -1,0 +1,9 @@
+-- 1. Calculating Conversion Rate by BDR
+-- This query shows which BDR are best at qualifying leads
+SELECT bdr_name, COUNT(lead_id) AS leads_count
+FROM allstars_leads
+GROUP BY bdr_name
+ORDER BY leads_count DESC;
+
+--2. Lead Source Performance Analysis
+SELECT 
