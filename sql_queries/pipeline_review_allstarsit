@@ -1,12 +1,21 @@
--- 1. Calculating Conversion Rate by BDR
--- This query shows which BDR are best at qualifying leads
+/* PROJECT: AllStarsIT Sales Operations Analysis
+   DESCRIPTION: These queries help optimize sales department performance 
+   by analyzing BDR individual efficiency and marketing channel profitability
+*/
+
+-- 1. BDR Efficiency (Lead Qualification Volume)
+-- Identifies top-performing team members by lead volume and helps evaluate team workload
+SELECT 
 SELECT bdr_name, COUNT(lead_id) AS leads_count
 FROM allstars_leads
 GROUP BY bdr_name
 ORDER BY leads_count DESC;
 
---2. Lead Source Performance Analysis
-SELECT l.source
+-- 2. Lead Source Profitability Analysis (Lead Source ROI)
+-- Highlights which channels generate actual revenue and the highest average deal size
+-- Critical for strategic marketing budget allocation
+SELECT l.source, SUM(d.amount) AS total_revenue, AVG(d.amount) AS average_deal_size
 FROM allstars_leads AS l, allstars_deals AS d
-WHERE l.lead_id=d.lead_id
+WHERE l.lead_id=d.lead_id AND stage='closed'
 GROUP BY l.source
+ORDER BY total_revenue DESC;
