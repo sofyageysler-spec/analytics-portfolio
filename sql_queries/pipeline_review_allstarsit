@@ -14,7 +14,7 @@ ORDER BY leads_count DESC;
 -- 2. Lead Source Profitability Analysis (Lead Source ROI)
 -- Highlights which channels generate actual revenue and the highest average deal size
 -- Critical for strategic marketing budget allocation
-SELECT l.source, SUM(d.amount) AS total_revenue, AVG(d.amount) AS average_deal_size
+SELECT l.source, SUM(d.amount) AS total_revenue, ROUND(AVG(d.amount), 2) AS average_deal_size
 FROM allstars_leads AS l, allstars_deals AS d
 WHERE l.lead_id=d.lead_id AND stage='closed'
 GROUP BY l.source
