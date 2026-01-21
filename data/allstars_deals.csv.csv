@@ -1,4 +1,4 @@
-deal_id,lead_id,amount,stage,close_date
+lead_id,deal_id,amount,stage,close_date
 1,488,7384.55,Closed,11/14/2025
 2,248,10053.08,In Process,6/14/2025
 3,874,2743.14,In Process,3/30/2025
