@@ -5,7 +5,6 @@
 
 -- 1. BDR Efficiency (Lead Qualification Volume)
 -- Identifies top-performing team members by lead volume and helps evaluate team workload
-SELECT 
 SELECT bdr_name, COUNT(lead_id) AS leads_count
 FROM allstars_leads
 GROUP BY bdr_name
@@ -23,7 +22,7 @@ ORDER BY total_revenue DESC;
 -- 3. Average Deal Size by BDR
 -- Identifies which BDRs are qualifying high-value opportunities vs. high-volume leads.
 SELECT l.bdr_name, ROUND(AVG(d.amount), 2) AS avg_deal_value, COUNT(d.deal_id) AS deals_won
-FROM allstars_leads AS l allstars_deals AS d
+FROM allstars_leads AS l, allstars_deals AS d
 WHERE  l.lead_id = d.lead_id AND d.stage = 'closed'
 GROUP BY l.bdr_name
 ORDER BY avg_deal_value DESC;
