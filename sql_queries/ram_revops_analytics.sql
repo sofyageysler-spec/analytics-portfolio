@@ -12,13 +12,12 @@ ORDER BY number_of_clients DESC;
 
 -- 2. Marketing ROI: Revenue vs Spend by Country
 -- Joins subscription revenue with marketing costs to evaluate the profitability of each region.
--- Helps identify which markets (e.g., USA vs Israel) provide the best return on ad spend.
-
-SELECT s.country, SUM(s.monthly_revenue) AS total_mrr, m.ads_spend,(SUM(s.monthly_revenue) - m.ads_spend) AS net_profit
-FROM ram_subscriptions AS s
-JOIN ram_marketing_costs AS m ON s.country = m.country
-WHERE s.churned = false
-GROUP BY s.country, m.ads_spend;
+-- Helps identify which markets provide the best return on ad spend (ROAS).
+SELECT s.country, SUM(s.monthly_revenue) AS total_revenue, m.total_ads_spend AS marketing_budget, ROUND(SUM(s.monthly_revenue) / NULLIF(m.total_ads_spend, 0), 2) AS roi_ratio
+FROM ram_subscriptions AS, ram_marketing_costs AS m 
+WHERE s.country = m.country AND s.churned = false
+GROUP BY s.country, m.total_ads_spend
+ORDER BY roi_ratio DESC;
 
 --3. Account Age Analysis (Customer Longevity)
 -- Measures how long active customers stay with the company to evaluate loyalty and long-term retention.
