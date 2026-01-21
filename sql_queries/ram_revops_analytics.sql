@@ -10,12 +10,15 @@ FROM ram_subscriptions
 GROUP BY country, plan_type
 ORDER BY number_of_clients DESC;
 
--- 2. High-Value Customer Identification (USA Market)
--- Target list for loyalty programs or upselling opportunities in the US region.
-SELECT customer_id, plan_type, monthly_revenue
-FROM ram_subscriptions
-WHERE country = 'USA' AND monthly_revenue > 50 AND churned = false
-ORDER BY monthly_revenue DESC;
+-- 2. Marketing ROI: Revenue vs Spend by Country
+-- Joins subscription revenue with marketing costs to evaluate the profitability of each region.
+-- Helps identify which markets (e.g., USA vs Israel) provide the best return on ad spend.
+
+SELECT s.country, SUM(s.monthly_revenue) AS total_mrr, m.ads_spend,(SUM(s.monthly_revenue) - m.ads_spend) AS net_profit
+FROM ram_subscriptions AS s
+JOIN ram_marketing_costs AS m ON s.country = m.country
+WHERE s.churned = false
+GROUP BY s.country, m.ads_spend;
 
 --3. Account Age Analysis (Customer Longevity)
 -- Measures how long active customers stay with the company to evaluate loyalty and long-term retention.
