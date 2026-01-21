@@ -6,4 +6,7 @@ GROUP BY bdr_name
 ORDER BY leads_count DESC;
 
 --2. Lead Source Performance Analysis
-SELECT 
+SELECT l.source
+FROM allstars_leads AS l, allstars_deals AS d
+WHERE l.lead_id=d.lead_id
+GROUP BY l.source
