@@ -1,0 +1,25 @@
+customer_id,signup_date,plan_type,monthly_revenue,churned,churn_date,country
+1,7/9/2025,Pro,746.12,false,4/20/2025,Israel
+2,12/28/2025,Basic,329.49,false,3/23/2025,Israel
+3,4/4/2025,Basic,100.01,false,6/6/2025,Israel
+4,7/2/2025,Basic,484.26,false,6/30/2025,Israel
+5,11/21/2025,Pro,373.69,false,11/9/2025,Israel
+6,4/14/2025,Enterprise,292.31,false,6/11/2025,Israel
+7,10/20/2024,Pro,948.76,false,9/7/2025,Israel
+8,1/29/2024,Enterprise,881.18,true,2/14/2025,Israel
+9,1/5/2026,Enterprise,226.11,false,1/4/2026,United States
+10,5/25/2025,Pro,141.08,false,2/1/2025,United States
+11,6/8/2024,Pro,261.63,false,11/27/2025,United States
+12,10/20/2024,Pro,574.11,true,2/28/2025,United States
+13,3/3/2025,Enterprise,870.97,true,5/29/2025,United States
+14,1/26/2025,Enterprise,279.4,false,4/23/2025,United States
+15,4/28/2025,Enterprise,721.2,false,11/25/2025,United States
+16,9/3/2024,Enterprise,375.68,false,1/26/2025,Israel
+17,10/5/2024,Pro,545.19,true,11/2/2025,Israel
+18,12/17/2024,Enterprise,801.92,false,8/7/2025,United States
+19,4/8/2025,Basic,873.69,true,5/6/2025,Israel
+20,10/19/2024,Pro,550.62,false,6/24/2025,Israel
+21,4/8/2024,Basic,519.19,false,11/12/2025,Israel
+22,5/3/2025,Pro,447.51,false,10/24/2025,Israel
+23,9/23/2025,Pro,640.92,false,1/7/2026,Israel
+24,4/13/2025,Pro,453.04,false,1/22/2025,United States
