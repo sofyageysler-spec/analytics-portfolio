@@ -23,6 +23,8 @@ Using Python, I visualized the lead progression to identify conversion bottlenec
 
 Key Insights: Analyzed lead distribution across stages: New, MQL, SQL, and In Process.
 
+![Sales Funnel](images/sales_funnel.png)
+
 🤖 Case 2: RAM Automation (SaaS/RevOps)
 
 Goal: Evaluate market penetration and Marketing ROI for Israel and USA markets.
@@ -32,6 +34,8 @@ Marketing ROI: Revenue vs Spend
 This analysis joins subscription revenue data with marketing expenditures to calculate the ROI ratio per region.
 
 Key Metric: ROI Ratio = Total Revenue / Total Ad Spend.
+
+![Marketing ROI](images/marketing_roi.png)
 
 🛠 Tech Stack
 
